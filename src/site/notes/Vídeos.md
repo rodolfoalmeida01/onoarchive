@@ -19,12 +19,14 @@ Design: Alexandre Drobac
 
 ### Uma Nova Pessoa (2024)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tb7kBS6cGHs?si=YcqDQFi4WJJZyWI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Produzido pelo Rodolfo a partir de fotos do Bruno Lescher. Indicado na categoria "**Loop infinito: Visualizers**" do [Festival Ruído 2024](https://www.youtube.com/watch?v=C_IKUDNZE1A).
 
 --
 
 ### Sonho Verde (2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kL6IAlFyNqk?si=YTiGigeuGHLZb-kN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Produzido por Gabriel Rolim.
 
 --
