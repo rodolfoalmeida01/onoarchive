@@ -3,11 +3,14 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-      background-color: bebada;
+      background-color: bebada !important;
       .content {
-       font-size: 14px;
+       font-size: 300px;
       }
       h1 {
-       color: pink;
+       color: pink !important;
       }
+
+    h2 {
+        color: blue !important;
 }
