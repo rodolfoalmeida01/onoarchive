@@ -8,7 +8,7 @@
 - [[Gigs/Bar Alto (25.08.2024)\|Bar Alto (25.08.2024)]]. O Nó lança "Era Normal". Casa lotada, dia de frio, calor intenso, primeiro show em 7 anos.  
 - [[Gigs/Breve (17.03.2017)\|Breve (17.03.2017)]]. Monkeybuzz no Breve: Raça + O Nó. Show filmado, primeiro da série, primeira vez em que tocamos Vultos do Mar (versão alternativa).  
 - [[Gigs/Casa do Mancha (03.12.2016)\|Casa do Mancha (03.12.2016)]]. Ombu, Papisa e O Nó. Um dos shows mais legais.  
-- [[Gigs/Cult Club (27.06.2016)\|Cult Club (27.06.2016)]]. O Nó, Le Banquet e Sala Espacial.  
+- [[Gigs/Cult Club (27.06.2016)\|Cult Club (27.06.2016)]]. O Nó, Le Banquet e Sala Espacial. 
 - [[Gigs/Hotel Bar (30.04.2016)\|Hotel Bar (30.04.2016)]]. O Nó. EP-1. Show mini mini, levamos o bumbo no porta-malas da minha mãe, ganhamos um lanche.  
 - [[Gigs/ECA-USP (14.03.2016)\|ECA-USP (14.03.2016)]]. QiB do Fico: O Nó, Retina + DJs. Show de graça contra a ordem de despejo da sede do Sindicato dos Trabalhadores da USP, show na geodésica, tinha um nenê na plateia.  
 - [[Gigs/Espaço Magma (02.04.2016)\|Espaço Magma (02.04.2016)]]. O Nó, com bandas desconhecidas. Tocamos um cover de Para Lennon & McCartney, tomamos prejuízo do produtor.  
