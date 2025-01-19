@@ -3,15 +3,29 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-      background-color: bebada !important;
+      background-color: black !important;
       .content {
-       font-size: 300px;
+       font-size: 14px;
       }
       h1 {
-       color: pink !important;
+       color: white !important;
       }
 
     h2 {
-        color: blue !important;
+        color: white !important;
     }
+
+    .filetree-sidebar {
+	margin: 0;
+	z-index: 10;
+	padding: 10px;
+	top: 0px;
+	left: 0;
+	position: fixed;
+	height: 100%;
+	background-color: black;
+	color: var(--text-muted);
+	overflow-y: auto;
+	width: 250px;
+}
 }
