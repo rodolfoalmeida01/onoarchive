@@ -13,7 +13,7 @@
 - [[Gigs/ECA-USP (14.03.2016)\|ECA-USP (14.03.2016)]]. QiB do Fico: O Nó, Retina + DJs. Show de graça contra a ordem de despejo da sede do Sindicato dos Trabalhadores da USP, show na geodésica, tinha um nenê na plateia.  
 - [[Gigs/Espaço Magma (02.04.2016)\|Espaço Magma (02.04.2016)]]. O Nó, com bandas desconhecidas. Tocamos um cover de Para Lennon & McCartney, tomamos prejuízo do produtor.  
 - [[Gigs/Augusta 339 (25.03.2016)\|Augusta 339 (25.03.2016)]]. Bike, O Grande Babaca, Goldenloki, Voliere, O Nó, Te. Show na sexta-feira da Paixão, no antigo Spades Café (?).  
-- [[Gigs/Neu Club (10.11.2025)\|Neu Club (10.11.2025)]]. O Nó, show de lançamento do EP-1.  
+- [[Gigs/Neu Club (10.11.2015)\|Neu Club (10.11.2015)]]. O Nó, show de lançamento do EP-1.  
 - [[Gigs/Puxadinho da Praça Espaço Cultural (29.08.2015)\|Puxadinho da Praça Espaço Cultural (29.08.2015)]]. VII Festa Terra de Lá: Mamparra e O Nó. Tocamos uma jam meio disco.  
 - [[Gigs/Casa Amarela (20.06.2015)\|Casa Amarela (20.06.2015)]]. Virada Cultural paralela na Casa Amarela. O Nó, Pollux & Castor, Hollowood e mais atrações.
 - [[Gigs/Teatro da Escola Waldorf Rudolf Steiner (12.04.2014)\|Teatro da Escola Waldorf Rudolf Steiner (12.04.2014)]]. Era um festival com mais gente mas não lembro. Único show com a Meuri cantando.  
