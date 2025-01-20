@@ -6,7 +6,8 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 		
-	background-color: black !important;
+	background-image: url("/img/_patternbg.png") !important;
+	 background-repeat: repeat !important;
 	
 	.content {
 	font-size: 16px;
@@ -19,10 +20,11 @@ body {
   	font-optical-sizing: auto;
   	font-weight: 400;
   	font-style: normal;
+	font-size: 120px;
       }
 
     h2 {
-
+	
     }
 
     .filetree-sidebar {
