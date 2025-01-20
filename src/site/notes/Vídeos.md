@@ -9,7 +9,7 @@
 Indicado na categoria "**BRA: Clipe Nacional**" do [Festival Ruído 2024](https://www.youtube.com/watch?v=C_IKUDNZE1A).
 
 Captação: O Nó 
-Direcão, keyframing e edição: Rodolfo Almeida 
+Keyframing e edição: Rodolfo Almeida 
 Color grading e VFX: Rollinos (Gabriel Rolim) 
 Fotografia Still: Bruno Lescher 
 Crochês: Firula Crochet (Meuri Elle) 
