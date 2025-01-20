@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/casa-amarela-20-06-2015/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/casa-amarela-20-06-2015/","noteIcon":"✦"}
 ---
 
 ## Casa Amarela (20.06.2015)

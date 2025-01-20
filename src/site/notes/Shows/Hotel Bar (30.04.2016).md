@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/hotel-bar-30-04-2016/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/hotel-bar-30-04-2016/","noteIcon":"✦"}
 ---
 
 ## Hotel Bar (30.04.2016)

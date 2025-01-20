@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/teatro-da-escola-waldorf-rudolf-steiner-12-04-2014/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/teatro-da-escola-waldorf-rudolf-steiner-12-04-2014/","noteIcon":"✦"}
 ---
 
 ## Escola Waldorf Rudolf Steiner (12.04.2014)

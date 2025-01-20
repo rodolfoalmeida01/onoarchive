@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/o-no/","tags":["gardenEntry"],"noteIcon":" "}
+{"dg-publish":true,"permalink":"/o-no/","tags":["gardenEntry"],"noteIcon":"✦"}
 ---
 
 # O Nó

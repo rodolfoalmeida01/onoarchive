@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/espaco-magma-02-04-2016/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/espaco-magma-02-04-2016/","noteIcon":"✦"}
 ---
 
 ## Espaço Magma (02.04.2016)

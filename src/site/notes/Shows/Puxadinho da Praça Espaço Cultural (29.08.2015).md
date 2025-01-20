@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/puxadinho-da-praca-espaco-cultural-29-08-2015/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/puxadinho-da-praca-espaco-cultural-29-08-2015/","noteIcon":"✦"}
 ---
 
 ## Puxadinho da Praça (29.08.2015)

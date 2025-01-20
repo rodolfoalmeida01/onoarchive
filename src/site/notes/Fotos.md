@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fotos/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/fotos/","noteIcon":"✦"}
 ---
 
 # Fotos

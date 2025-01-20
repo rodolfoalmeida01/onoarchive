@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/breve-17-03-2017/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/breve-17-03-2017/","noteIcon":"✦"}
 ---
 
 ## Breve (17.03.2017)

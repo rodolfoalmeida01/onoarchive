@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/bar-alto-25-08-2024/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/bar-alto-25-08-2024/","noteIcon":"✦"}
 ---
 
 ## Bar Alto (25.08.2024)

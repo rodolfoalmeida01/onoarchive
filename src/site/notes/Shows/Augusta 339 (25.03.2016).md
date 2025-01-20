@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/augusta-339-25-03-2016/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/augusta-339-25-03-2016/","noteIcon":"✦"}
 ---
 
 ## Augusta 339 (25.03.2016)

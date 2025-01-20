@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/espaco-cultural-walden-20-12-2013/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/espaco-cultural-walden-20-12-2013/","noteIcon":"✦"}
 ---
 
 ## Espaço Cultural Walden (20.12.2013)

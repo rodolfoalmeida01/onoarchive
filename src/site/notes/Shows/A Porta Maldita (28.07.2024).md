@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/a-porta-maldita-28-07-2024/","noteIcon":" "}
+{"dg-publish":true,"permalink":"/shows/a-porta-maldita-28-07-2024/","noteIcon":"✦"}
 ---
 
 ## A Porta Maldita (28.07.2024)
