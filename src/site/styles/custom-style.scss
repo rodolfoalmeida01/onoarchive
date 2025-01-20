@@ -8,11 +8,16 @@ body {
        font-size: 14px;
       }
       h1 {
-       color: white !important;
+       color: #FF1F96 !important;
       }
 
     h2 {
+	font-family: "Ballet", serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
         color: white !important;
+	text-transform: uppercase;
     }
 
     .filetree-sidebar {
