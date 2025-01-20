@@ -3,21 +3,23 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+	
       background-color: black !important;
       .content {
        font-size: 14px;
       }
       h1 {
        color: #FF1F96 !important;
-      }
-
-    h2 {
-	font-family: "Ballet", serif;
+	      	font-family: "Ballet", serif;
   	font-optical-sizing: auto;
   	font-weight: 400;
   	font-style: normal;
         color: white !important;
-	text-transform: uppercase;
+      }
+
+    h2 {
+
     }
 
     .filetree-sidebar {
