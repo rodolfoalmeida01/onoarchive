@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/shows/"}
 ---
 
+# Shows
 ## [[Shows/FFFront (17.01.2025)\|FFFront (17.01.2025)]]. 
 O Nó (de volta ao presencial). Homenagem a David Lynch
 

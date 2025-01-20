@@ -2,11 +2,14 @@
 {"dg-publish":true,"permalink":"/shows/neu-club-10-11-2015/"}
 ---
 
+## Neu Club (10.11.2015)
+
 **O Nó: Show de lançamento do EP-1**
 
-## Cartaz
+### Cartaz
 ![462475584_2937148209786376_5631954399791036072_n.jpg](/img/user/img/462475584_2937148209786376_5631954399791036072_n.jpg)
-
+![cartaz colorido novo-01.jpg](/img/user/img/cartaz%20colorido%20novo-01.jpg)Cartaz do Rodolfo
+![ARABE-01.jpg](/img/user/img/ARABE-01.jpg)
 ## Fotos
 ![462512476_2937268453107685_6240895213170995528_n.jpg](/img/user/img/462512476_2937268453107685_6240895213170995528_n.jpg)
-![Pasted image 20250119182817.png](/img/user/img/Pasted%20image%2020250119182817.png)
+]]![000204160031.jpg](/img/user/img/000204160031.jpg)
