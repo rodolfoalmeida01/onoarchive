@@ -3,14 +3,18 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+	
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
 	
-      background-color: black !important;
-      .content {
-       font-size: 14px;
+	background-color: black !important;
+	
+	.content {
+	font-size: 16px;
+	text-align: center;
       }
+	
       h1 {
-       color: #FF1F96 !important;
+	color: #FF1F96 !important;
 	font-family: "Ballet", serif !important;
   	font-optical-sizing: auto;
   	font-weight: 400;
