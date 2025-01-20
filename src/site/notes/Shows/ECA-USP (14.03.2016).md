@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/eca-usp-14-03-2016/"}
+{"dg-publish":true,"permalink":"/shows/eca-usp-14-03-2016/","noteIcon":" "}
 ---
 
 ## ECA-USP (14.03.2016)

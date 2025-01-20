@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/jam-spot-studio-08-12-2024/"}
+{"dg-publish":true,"permalink":"/shows/jam-spot-studio-08-12-2024/","noteIcon":" "}
 ---
 
 ## Jam Spot Studio (08.10.2024)

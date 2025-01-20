@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/ff-front-17-01-2025/"}
+{"dg-publish":true,"permalink":"/shows/ff-front-17-01-2025/","noteIcon":" "}
 ---
 
 ## FFFront (17.01.2025)

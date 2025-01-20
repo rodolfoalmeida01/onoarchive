@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipping/"}
+{"dg-publish":true,"permalink":"/clipping/","noteIcon":" "}
 ---
 
 # Clipping

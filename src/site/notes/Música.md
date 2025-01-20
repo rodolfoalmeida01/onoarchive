@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/musica/"}
+{"dg-publish":true,"permalink":"/musica/","noteIcon":" "}
 ---
 
 # Música

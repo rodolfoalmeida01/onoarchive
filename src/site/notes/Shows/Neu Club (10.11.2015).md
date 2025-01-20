@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shows/neu-club-10-11-2015/"}
+{"dg-publish":true,"permalink":"/shows/neu-club-10-11-2015/","noteIcon":" "}
 ---
 
 ## Neu Club (10.11.2015)

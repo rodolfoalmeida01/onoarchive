@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/"}
+{"dg-publish":true,"permalink":"/videos/","noteIcon":" "}
 ---
 
 # Vídeos
@@ -43,5 +43,6 @@ Produzido e dirigido por Nicolas Thomé Zetune e Pedro Geraldo. Elenco em ordem 
 
 ### Dip Recording: O Nó
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n_KuWqb9u-g?si=O0EYIVIROx8zfT3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Monkeybuzz no Breve - O Nó
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mR0WVLGU7v0?si=l4mhBidIMnEwGZSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
