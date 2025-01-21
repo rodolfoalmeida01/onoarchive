@@ -3,8 +3,6 @@
 ---
 
 # Shows
-<div style='text-align: left !important;'>
-
 ## [[Shows/FFFront (17.01.2025)\|FFFront (17.01.2025)]]. 
 O Nó (de volta ao presencial). Homenagem a David Lynch
 
@@ -52,5 +50,3 @@ Era um festival com mais gente mas não lembro quem. Único show com a Meuri can
 
 ## [[Shows/Espaço Cultural Walden (20.12.2013)\|Espaço Cultural Walden (20.12.2013)]].
 O Nó com Buzz Ring Knock Pow Bang e Sin Ayuda. Lançamento dos zines Anta e Baile das Carpideiras, do Rodolfo, o nome completo do evento era Primeiro Festival de Aniversário da Nomeação do Ilustríssimo Almeida Garrett a Cronista-Mór do Reino de Portugal.
-
-</div>
