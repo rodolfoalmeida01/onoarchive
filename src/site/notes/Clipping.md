@@ -4,11 +4,8 @@
 
 # Clipping
 Zero garantia de que todos esses links estejam funcionando
-# 2024
-<div style='text-align:left !important'>
-### [Alto Falante (Rede Minas, 21.10.2024)](https://www.youtube.com/watch?v=hPRgp9AJPx8&t=74s):  Desatamos O NÓ, no Garimpo 
-*Programa exibido, em caráter inédito, no dia 19 do 10 de 24, pela Rede Minas*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hPRgp9AJPx8?si=ucN2Ihzf_NKx0nv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div style='text-align: left !important;'>
 
 ### [Monkeybuzz (19.07.2024)](https://monkeybuzz.com.br/materias/sinapse-a-estetica-da-burocracia/): SINAPSE: a estética da burocracia
 *"Ouvindo o novo trabalho da banda **O Nó**, intitulado Era Normal, a primeira coisa que me vem à mente é a tal estética da burocracia. (...) No entanto, Era Normal não parece falar apenas na dignidade resignada do funcionalismo público, mas sim da mentalidade do escritório, do discurso da firma neoliberal que se assentou como verdade, que suga nossas forças vitais, precarizando o ambiente de trabalho, enquanto nos convence de que isso é hidratação, destaque, superação ou, enfim, empreendedorismo.* 
@@ -24,18 +21,17 @@ Zero garantia de que todos esses links estejam funcionando
 ### [Música Instantânea (07.06.2024)](https://musicainstantanea.com.br/o-no-jornada-do-usuario/): O Nó - "Jornada do Usuário"
 "*Composto ao longo dos últimos dois anos e fortemente inspirado pela obra de artistas como Toro Y Moi, Westerman e Yellow Magic Orchestra, o registro, que ainda segue sem título revelado e data de lançamento, é o primeiro álbum de estúdio da banda desde Resquícios Cromáticos – 15º colocado em nossa lista com Os 30 Melhores Discos Brasileiros de 2020.*"
 
-### [Vamos Falar Sobre Música #317 (12.09.2021)](https://vamosfalarsobremusica.com.br/2024/09/12/vfsm-317-como-foi-o-coala-festival-2024/) 
+### [Vamos Falar Sobre Música 317 (12.09.2021)](https://vamosfalarsobremusica.com.br/2024/09/12/vfsm-317-como-foi-o-coala-festival-2024/) 
 *"O Nó lançou Era Normal, segundo álbum de estúdio deles. É um disco mais pop em relação ao anterior. Muito uso de sintetizador, tem elementos de pop anos 80, mas reflete muito sobre a sociedade atual, sobre esse universo pós-Elon Musk, sobre o universo corporativo, com esse fundo altamente irônico e de música pop"*
 
-### [Vamos Falar Sobre Música #304 (13.06.2024)](https://vamosfalarsobremusica.com.br/2024/06/13/vfsm-304-brat-e-como-charli-xcx-criou-o-proprio-espaco-no-pop/) 
+### [Vamos Falar Sobre Música 304 (13.06.2024)](https://vamosfalarsobremusica.com.br/2024/06/13/vfsm-304-brat-e-como-charli-xcx-criou-o-proprio-espaco-no-pop/) 
 *"O Nó lançaram 'Jornada do Usuário', primeira música do novo álbum de estúdio deles"*
-</div>
 
 # 2021
 ### [Música Instantânea (14.11.2021)](https://musicainstantanea.com.br/o-no-toda-luz-frente-ao-breu/): O Nó: “Toda Luz Frente Ao Breu”
 *"Perto de completar um ano de lançamento do trabalho, o quarteto paulistano está de volta com mais uma canção inédita: Toda Luz Frente Ao Breu. Deixada de fora do corte final do registro, a composição de quase quatro minutos sintetiza parte das experiências incorporadas pela banda ao longo de Resquícios Cromáticos. São delicadas camadas de sintetizadores que se revelam ao público em pequenas doses, sem pressa, sempre acompanhadas pelo uso delirante das guitarras e vozes submersas."*
 
-### [Vamos Falar Sobre Música #169 (11.11.2021)](https://vamosfalarsobremusica.com.br/2021/11/11/vfsm-169-musicas-que-as-pessoas-interpretam-errado/) 
+### [Vamos Falar Sobre Música 169 (11.11.2021)](https://vamosfalarsobremusica.com.br/2021/11/11/vfsm-169-musicas-que-as-pessoas-interpretam-errado/) 
 *"Muito boa a música "Toda Luz Frente ao Breu". É uma sobra do disco, mas leva pra um cantinho diferente, um cantinho rabiscado no verso."*
 
 ### [Scream & Yell Melhores de 2020 (30.01.2021)](https://screamyell.com.br/site/2021/01/30/melhores-de-2020-scream-yell-marcio-padrao/): Márcio Padrão
@@ -64,7 +60,7 @@ Zero garantia de que todos esses links estejam funcionando
 **15ª posição: "Resquícios Cromáticos" – O Nó**
 *"Composições consumidas pelo peso memória e paisagens tão reais quanto oníricas, conceito que dialoga diretamente com a imagem de capa do álbum, um co-criação de Drobac e Almeida, mas que acaba se refletindo em cada mínimo componente que serve de sustento ao disco"*
 
-### [Vamos Falar Sobre Música #121 (10.12.2020)](https://vamosfalarsobremusica.com.br/2020/12/13/podcast-vfsm-121-os-melhores-discos-de-1980/) 
+### [Vamos Falar Sobre Música 121 (10.12.2020)](https://vamosfalarsobremusica.com.br/2020/12/13/podcast-vfsm-121-os-melhores-discos-de-1980/) 
 *"A estreia de **O Nó** com Resquícios Cromáticos: um disco lindíssimo de soft pop e synthpop, com letras melancólicas existencialistas. O tempo é um componente fundamental pro crescimento desse disco, muitas camadas de sintetizadores, um pouco de experimentação. Lembra um pouco Dorgas em alguns momentos, vale a pena para quem quer conhecer um som novo."*
 
 ### [Miojo Indie (08.12.2020)](https://musicainstantanea.com.br/critica-o-no-resquicios-cromaticos/): Crítica - O Nó: "Resquícios Cromáticos"
@@ -76,7 +72,7 @@ Zero garantia de que todos esses links estejam funcionando
 ### [Miojo Indie (23.11.2020)](https://musicainstantanea.com.br/o-no-sonho-verde/): O Nó "Sonho Verde"
 *"Depois de muita expectativa e um longo período de espera, é chega a hora de ter acesso ao primeiro álbum de estúdio da banda paulistana O Nó. Intitulado Resquícios Cromáticos (2020), o trabalho que será entregue ao público no início de dezembro deve ampliar o rock psicodélico que tem sido incorporado pelo grupo desde os primeiros registros autorais. Exemplo disso está na recém-lançada Sonho Verde, música que evoca as guitarras e sintetizadores do Tame Impala, porém, reforçando a já habitual relação do quarteto com o sophisti-pop e os temas produzidos na década de 1980."*
 
-### [Vamos Falar Sobre Música #117 (12.11.2020)](https://vamosfalarsobremusica.com.br/2020/11/15/podcast-vfsm-117-falando-sobre-colecoes/) 
+### [Vamos Falar Sobre Música 117 (12.11.2020)](https://vamosfalarsobremusica.com.br/2020/11/15/podcast-vfsm-117-falando-sobre-colecoes/) 
 *"**O Nó** é uma banda que surgiu em 2015, lançaram um EP bem gostosinho meio prog, meio rock psicodélico, evoca um pouco de Tame Impala, Som Imaginário. Eles vão lançar o primeiro álbum de estúdio em dezembro e voltaram com essa música 'Vultos do Mar', bem inspirada pelo soft pop dos anos 80."*
 
 ### [Miojo Indie (09.11.2020)](https://musicainstantanea.com.br/o-no-vultos-do-mar-video/): O Nó: “Vultos do Mar” (VÍDEO)
@@ -119,3 +115,5 @@ Zero garantia de que todos esses links estejam funcionando
 
 ### [Bodyspace.net (17.11.2015)](https://bodyspace.net/ultimas/6115-o-brasil-vem-ate-nos/): O Brasil vem até nós
 *"São duas bandas: O Grande Ogro e **O Nó**. Ambas de São Paulo, uma mais _noisy_, outra virada para o prog. (...) a segunda acaba de editar o seu primeiro EP, lançado em Outubro. Podem ouvir ambas aqui em baixo, mesmo que se situem a mais de 9000km de distância, porque a Internet serve para isso.*
+
+</div>
