@@ -5,6 +5,7 @@
 # Clipping
 Zero garantia de que todos esses links estejam funcionando
 # 2024
+<div style='text-align:left !important'>
 ### [Alto Falante (Rede Minas, 21.10.2024)](https://www.youtube.com/watch?v=hPRgp9AJPx8&t=74s):  Desatamos O NÓ, no Garimpo 
 *Programa exibido, em caráter inédito, no dia 19 do 10 de 24, pela Rede Minas*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hPRgp9AJPx8?si=ucN2Ihzf_NKx0nv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,6 +29,7 @@ Zero garantia de que todos esses links estejam funcionando
 
 ### [Vamos Falar Sobre Música #304 (13.06.2024)](https://vamosfalarsobremusica.com.br/2024/06/13/vfsm-304-brat-e-como-charli-xcx-criou-o-proprio-espaco-no-pop/) 
 *"O Nó lançaram 'Jornada do Usuário', primeira música do novo álbum de estúdio deles"*
+</div>
 
 # 2021
 ### [Música Instantânea (14.11.2021)](https://musicainstantanea.com.br/o-no-toda-luz-frente-ao-breu/): O Nó: “Toda Luz Frente Ao Breu”
