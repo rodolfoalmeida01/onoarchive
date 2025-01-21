@@ -14,3 +14,5 @@ são paulo/sp
 [[Fotos\|Fotos]]
 [[Vídeos\|Vídeos]]
 [[Clipping\|Clipping]]
+
+![pattern_bg.png](/img/user/pattern_bg.png)
