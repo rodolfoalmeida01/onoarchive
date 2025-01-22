@@ -15,7 +15,7 @@ são paulo/sp
 [[vídeos\|vídeos]]
 [[clipping\|clipping]]
 
---
+𓅓𓅓𓅓
 
 bandaono4@gmail.com
 [instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
