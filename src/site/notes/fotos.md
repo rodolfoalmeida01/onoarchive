@@ -6,6 +6,7 @@
 imagens diversas destas pessoas ao longo dos anos
 fotos dos shows tão na página [[shows\|shows]]
 
+--
 # 2024
 fotos do Bruno Lescher
 ![000044500035.jpeg](/img/user/img/000044500035.jpeg)
@@ -41,7 +42,7 @@ fotos do juca nogueira
 ![Perfil Quadrado 1.jpg](/img/user/img/Perfil%20Quadrado%201.jpg)
 ![DSC_4844.jpg](/img/user/img/DSC_4844.jpg)
 
-# Algum ensaio
+## Algum ensaio
 ![000109090032.jpg](/img/user/img/000109090032.jpg)
 ![000109090033.jpg](/img/user/img/000109090033.jpg)
 ![000109090034.jpg](/img/user/img/000109090034.jpg)
