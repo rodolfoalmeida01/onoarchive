@@ -7,18 +7,15 @@ body {
    ***/
 
 	background-color: black;
-	background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/7a769d015fe3870a17cfe3ea7e0a8b8920f50a84/src/site/img/user/img/b2.gif") !important;
-	 background-repeat: repeat !important;
+	background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/b2.gif") !important;
+	background-repeat: repeat !important;
+	font-family: "SimSun", system-ui, serif !important;
+
 	
 	.content {
 	font-size: 20px;
 	text-align: center;
       }
-	
-	p {
-	font-family: "SimSun", system-ui, serif !important;
-	}
-
 	
       h1 {
 	color: #FF1F96 !important;
@@ -36,12 +33,14 @@ body {
     }
 
 
-	h2 {
+	h3 {
 	text-transform: uppercase !important;
 	font-family: "SimSun", system-ui, serif !important;
-
 	}
-	
+
+	.nav h1 {
+	display: none;
+	}
 
     .filetree-sidebar {
 	margin: 0;
