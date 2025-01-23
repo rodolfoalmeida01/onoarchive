@@ -5,7 +5,7 @@
 # Vídeos
 que nós fizemos ou fizeram de nós
 
---
+𓃔𓃔𓃔𓃔𓃔
 
 ## Clipes e visualizers
 ### Jornada do Usuário (2024)

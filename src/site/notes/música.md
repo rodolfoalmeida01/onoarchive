@@ -5,9 +5,8 @@
 # Música
 sons que o nó já lançou
 baixe de graça via bandcamp
-(logo mais passamos os downloads pra cá)
 
---
+𓃴𓃴𓃴𓃴𓃴
 
 # Álbuns
 ## Era Normal
