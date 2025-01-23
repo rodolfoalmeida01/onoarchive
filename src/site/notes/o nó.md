@@ -19,3 +19,8 @@ são paulo/sp
 
 bandaono4@gmail.com
 [instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
+
+
+<div style='display:none;'>
+![b2.gif](/img/user/img/b2.gif)
+</div>
