@@ -24,3 +24,22 @@ bandaono4@gmail.com
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
+
+## acompanhe o nó
+inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">coloque seu email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="me avise" />
+  <p>
+    <a href="https://buttondown.com/refer/onorock" target="_blank">enviado via buttondown.</a>
+  </p>
+</form>
