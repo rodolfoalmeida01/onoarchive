@@ -32,8 +32,7 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
 𓅓𓅓𓅓
 <br><br>
 bandaono4@gmail.com
-[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
-
+[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandacamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
 
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
