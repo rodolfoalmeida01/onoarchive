@@ -9,22 +9,6 @@
 rock independente desde 2013
 são paulo/sp
 
-[[música\|música]]
-[[shows\|shows]]
-[[fotos\|fotos]]
-[[vídeos\|vídeos]]
-[[clipping\|clipping]]
-
-𓅓𓅓𓅓
-
-bandaono4@gmail.com
-[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
-
-
-<div style='display:none;'>
-![b2.gif](/img/user/img/b2.gif)
-</div>
-
 ## acompanhe o nó
 inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
 
@@ -43,3 +27,14 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
     <a href="https://buttondown.com/refer/onorock" target="_blank">enviado via buttondown.</a>
   </p>
 </form>
+
+𓅓𓅓𓅓
+
+bandaono4@gmail.com
+[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
+
+
+<div style='display:none;'>
+![b2.gif](/img/user/img/b2.gif)
+</div>
+
