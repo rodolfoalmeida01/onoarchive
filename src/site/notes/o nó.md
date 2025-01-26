@@ -12,7 +12,7 @@ são paulo/sp
 ## acompanhe o nó
 inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
 
-<form
+<html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
   method="post"
   target="popupwindow"
@@ -27,7 +27,7 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
     enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
     
   </p>
-</form>
+</form></html>
 <br><br>
 𓅓𓅓𓅓
 <br><br>
