@@ -24,7 +24,8 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
   
   <input type="submit" value="me avise" />
   <p>
-    <a href="https://buttondown.com/refer/onorock" target="_blank">enviado via buttondown.</a>
+    enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
+    
   </p>
 </form>
 
