@@ -5,8 +5,9 @@
 # Fotos
 imagens diversas destas pessoas ao longo dos anos
 fotos de shows ficam [aqui]([[shows\|shows]])
-
+<br><br>
 𓁏𓁏𓁏𓁏𓁏
+<br><br>
 # 2024
 fotos do Bruno Lescher
 ![000044500035.jpeg](/img/user/img/000044500035.jpeg)

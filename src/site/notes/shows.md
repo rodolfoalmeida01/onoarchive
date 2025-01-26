@@ -4,9 +4,9 @@
 
 # Shows
 rolês de que temos registro
-se tiver outras fotos de algum desses dias, [manda](mailto:bandaono4@gmail.com) pra gente
+se tiver outras fotos de algum desses dias, [manda](mailto:bandaono4@gmail.com) pra gente<br><br>
 
-𓀬𓀬𓀬𓀬𓀬
+𓀬𓀬𓀬𓀬𓀬<br><br>
 ## [[shows/FFFront (17.01.2025)\|FFFront (17.01.2025)]]. 
 O Nó (de volta ao presencial). Homenagem a David Lynch
 

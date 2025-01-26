@@ -5,9 +5,9 @@
 # Música
 sons que o nó já lançou
 baixe de graça via bandcamp
-
+<br><br>
 𓃴𓃴𓃴𓃴𓃴
-
+<br><br>
 # Álbuns
 ## Era Normal
 ![a1851907546_10.jpg](/img/user/img/a1851907546_10.jpg)
@@ -31,7 +31,7 @@ Produzido e gravado por Otávio Bonazzi
 Gravado no Estúdio Ekord  
 Saxofone por João Barisbe Batista  
 Gravado em São Paulo entre Julho de 2023 e Agosto de 2024
-
+<br><br>
 ## Resquícios Cromáticos
 ![a0234699921_10.jpg](/img/user/img/a0234699921_10.jpg)
 *Ilustração de capa do Rodolfo Almeida com design do Alexandre Drobac*
@@ -52,8 +52,9 @@ Lançado em 4 de Dezembro de 2020
 10. Altar (04:32)
 40:00
 
-Todas as músicas compostas e produzidas por Alexandre Drobac, Mateus Bentivegna, Matheus Perelmutter e Rodolfo Almeida (O Nó). Gravado no quarto do Matheus entre 2017 e 2019. Mixagem, masterização e co-produção de Otávio Bonazzi, com produção de vozes por André Ribeiro. Letra de "O Nó" escrita por Ana Cristina César (poema "nó" de 1968).
+Todas as músicas compostas e produzidas por Alexandre Drobac, Mateus Bentivegna, Matheus Perelmutter e Rodolfo Almeida (O Nó). Gravado no quarto do Matheus entre 2017 e 2019. Mixagem, masterização e co-produção de Otávio Bonazzi, com produção de vozes por André Ribeiro. Letra de "O Nó" escrita por Ana Cristina César (poema "nó" de 1968).<br><br>
 # Singles
+
 ## Arquivo Corrente
 ![a2562190979_10.jpg](/img/user/img/a2562190979_10.jpg)
 *Ilustração de capa e símbolo de Larissa Laban com design de Alexandre Drobac*
@@ -66,6 +67,7 @@ Produzida, mixada e masterizada por Otávio Bonazzi
 Saxofone de João Barisbe  
 Gravada no estúdio Ekord
 Composta por O Nó
+<br><br>
 ## Uma Nova Pessoa
 ![a1046268435_10.jpg](/img/user/img/a1046268435_10.jpg)
 *Ilustração de capa e símbolo de Larissa Laban com design de Alexandre Drobac*
@@ -78,6 +80,7 @@ Produzida, mixada e masterizada por Otávio Bonazzi
 Saxofone de João Barisbe  
 Gravada no estúdio Ekord  
 Composta por O Nó
+<br><br>
 ## Jornada do Usuário
 ![a3058927947_10.jpg](/img/user/img/a3058927947_10.jpg)
 *Ilustração de capa e símbolo de Larissa Laban com design de Alexandre Drobac*
@@ -89,6 +92,7 @@ Lançado em 7 de Junho de 2024
 Gravado no Estúdio Ekord  
 Produção, mix e master de Otávio Bonazzi  
 Todo o resto por O Nó
+<br><br>
 ## Toda Luz Frente ao Breu
 ![a1058735059_10.jpg](/img/user/img/a1058735059_10.jpg)
 *Capa do Rodolfo Almeida com design do Alexandre Drobac*
@@ -101,6 +105,7 @@ Mix e master: Otávio Bonazzi
 Capa: Rodolfo Almeida  
 Composição: a gente  
 Gravado no quarto do Matheus, e em parte no estúdio do Bonazzi
+<br><br>
 ## Sonho Verde
 ![a0799906421_10.jpg](/img/user/img/a0799906421_10.jpg)
 *Capa do Alexandre Drobac sobre fotografia do Rodolfo Almeida*
@@ -110,6 +115,7 @@ Gravado no quarto do Matheus, e em parte no estúdio do Bonazzi
 03:56
 Lançado em 20 de Novembro de 2020
 Gravado e produzido por O Nó, no quarto do Matheus, com letra de Alexandre Drobac. Mixado e masterizado por Otávio Bonazzi, com produção de vocais por André Ribeiro.
+<br><br>
 ## Vultos do Mar
 ![a2345020203_10.jpg](/img/user/img/a2345020203_10.jpg)
 *Capa do Alexandre Drobac sobre still do Nicholas Tomé Zetune*
@@ -119,6 +125,7 @@ Gravado e produzido por O Nó, no quarto do Matheus, com letra de Alexandre Drob
 05:11
 Lançado em 6 de Novembro de 2020
 Gravado e produzido por O Nó, no quarto do Matheus, com letra de Alexandre Drobac. Mixado e masterizado por Otávio Bonazzi, com produção de vocais por André Ribeiro.
+<br><br>
 ## Vão
 ![a1336499810_10.jpg](/img/user/img/a1336499810_10.jpg)
 *Capa de Rodolfo Almeida inspirada em Eisin Suzuki*
@@ -128,6 +135,7 @@ Gravado e produzido por O Nó, no quarto do Matheus, com letra de Alexandre Drob
 04:07
 Lançado em 18 de Julho de 2016
 Composto e escrito por Alexandre Drobac, Matheus Perelmutter, Rodolfo Almeida e Mateus Bentivegna (O Nó). Letra de Luísa Moreira. Gravado, mixado e masterizado por Alexandre Pereira no Zastrás Estúdio em 2016 através do projeto Levi's Originals Studio 2016.
+<br><br>
 # EPs
 ## EP-1 (Quasar)
 ![a3382992624_10.jpg](/img/user/img/a3382992624_10.jpg)
@@ -145,6 +153,7 @@ Lançado em 19 de Outubro de 2015
 21:13
 
 Todas as faixas compostas e escritas por Alexandre Drobac, Matheus Perelmutter, Rodolfo Almeida e Mateus Bentivegna (O Nó). Gravado e produzido por Nicholas Rabinovitch e Alex Huszar no estúdio Terra de Lá (Atabaques e Cowbell em “EG-1 1990” por João Rodrigues). Mixado e masterizado por Nicholas Rabinovitch no estúdio Terra de Lá no segundo semestre de 2015.
+<br><br>
 ## Demo
 ![a0860658212_10.jpg](/img/user/img/a0860658212_10.jpg)
 *Capa do Rodolfo Almeida*

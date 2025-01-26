@@ -8,7 +8,7 @@
 
 rock independente desde 2013
 são paulo/sp
-
+<br><br>
 ## acompanhe o nó
 inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
 
@@ -28,9 +28,9 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
     
   </p>
 </form>
-
+<br><br>
 𓅓𓅓𓅓
-
+<br><br>
 bandaono4@gmail.com
 [instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com)
 

@@ -5,10 +5,9 @@
 # Clipping
 um pouco do que já foi dito sobre o nó
 zero garantia de que esses links estejam funcionando
-
-
+<br><br>
 𓀑𓀑𓀑𓀑𓀑
-
+<br><br>
 <div style='text-align: left !important;'>
 
 ### [Alto Falante (Rede Minas, 21.10.2024)](https://www.youtube.com/watch?v=hPRgp9AJPx8&t=74s):  Desatamos O NÓ, no Garimpo 
