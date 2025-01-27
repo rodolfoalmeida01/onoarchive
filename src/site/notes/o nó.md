@@ -29,7 +29,7 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
   </p>
 </form></html>
 <br>
-𓅓𓅓𓅓[]()
+𓅓𓅓𓅓
 <br>
 
 <div style='display:none;'>
