@@ -8,7 +8,13 @@
 
 rock independente desde 2013
 são paulo/sp
+
+<br>
+bandaono4@gmail.com
+[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandacamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
+
 <br><br>
+
 ## acompanhe o nó
 inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
 
@@ -30,10 +36,7 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
 </form></html>
 <br><br>
 𓅓𓅓𓅓
-<br><br>
-bandaono4@gmail.com
-[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandacamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
-
+<br>
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
