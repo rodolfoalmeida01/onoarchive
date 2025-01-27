@@ -12,14 +12,14 @@ são paulo/sp
 ## acompanhe o nó
 inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
 
-<!DOCTYPE html><html><body><form
+<html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">coloque seu email</label>
+  <label for="bd-email">insira seu email</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="me avise" />
@@ -27,13 +27,22 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
     enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
     
   </p>
-</form></body></html>
-<br><br>
-𓅓𓅓𓅓
+</form></html>
 <br>
-bandaono4@gmail.com
-[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandacamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
+𓅓𓅓𓅓[]()
+<br>
+
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
+
+bandaono4@gmail.com
+[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
+
+[[música\|música]]
+[[shows\|shows]]
+[[vídeos\|vídeos]]
+[[fotos\|fotos]]
+[[clipping\|clipping]]
+
 
