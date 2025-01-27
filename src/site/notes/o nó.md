@@ -2,6 +2,35 @@
 {"dg-publish":true,"permalink":"/o-no/","tags":["gardenEntry"],"noteIcon":"✦"}
 ---
 
+<head>
+
+  <meta name="description" content="o arquivo online do nó: fotos, vídeos, músicas pra download e ouras novidades do nó">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/" />
+
+  <meta property="og:description" content="o arquivo online do nó: fotos, vídeos, músicas pra download e ouras novidades do nó" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head>
 # O Nó
 
 ![WhatsApp Image 2025-01-18 at 13.56.19_48f3296d.jpg](/img/user/img/WhatsApp%20Image%202025-01-18%20at%2013.56.19_48f3296d.jpg)
