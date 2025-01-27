@@ -77,10 +77,4 @@ O Nó com Buzz Ring Knock Pow Bang e Sin Ayuda. Lançamento dos zines Anta e Bai
 
   <meta property="og:image:height" content="900" />
 
-  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
-
-  <meta property="og:image:width" content="300" />
-
-  <meta property="og:image:height" content="300" />
-
 </head></html>

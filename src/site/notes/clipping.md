@@ -146,10 +146,5 @@ zero garantia de que esses links estejam funcionando
 
   <meta property="og:image:height" content="900" />
 
-  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
-
-  <meta property="og:image:width" content="300" />
-
-  <meta property="og:image:height" content="300" />
 
 </head></html>
