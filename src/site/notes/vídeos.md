@@ -49,3 +49,33 @@ Produzido e dirigido por Nicolas Thomé Zetune e Pedro Geraldo. Elenco em ordem 
 
 ### Monkeybuzz no Breve - O Nó
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mR0WVLGU7v0?si=l4mhBidIMnEwGZSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<html><head>
+
+  <meta name="description" content="clipes, visualizers e outros vídeos do nó">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó: vídeos" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/videos" />
+
+  <meta property="og:description" content="clipes, visualizers e outros vídeos do nó" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head></html>

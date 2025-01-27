@@ -174,3 +174,33 @@ Guitarra e voz: Alexandre Ferlauto
 Baixo e voz: Rodolfo Almeida  
 Bateria e sintetizadores: Mateus Bentivegna  
 Gravado no Estúdio Lumen, em São Paulo com iPhone 4
+
+<html><head>
+
+  <meta name="description" content="discos, eps e singles do nó, de graça pra baixar">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó: música" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/musica" />
+
+  <meta property="og:description" content="discos, eps e singles do nó, de graça pra baixar" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head></html>

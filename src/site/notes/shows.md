@@ -54,3 +54,33 @@ Era um festival com mais gente mas não lembro quem. Único show com a Meuri can
 
 ## [[shows/Espaço Cultural Walden (20.12.2013)\|Espaço Cultural Walden (20.12.2013)]].
 O Nó com Buzz Ring Knock Pow Bang e Sin Ayuda. Lançamento dos zines Anta e Baile das Carpideiras, do Rodolfo, o nome completo do evento era Primeiro Festival de Aniversário da Nomeação do Ilustríssimo Almeida Garrett a Cronista-Mór do Reino de Portugal.
+
+<html><head>
+
+  <meta name="description" content="todos os shows do nó de que temos registro">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó: shows" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/shows" />
+
+  <meta property="og:description" content="todos os shows do nó de que temos registro" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head></html>

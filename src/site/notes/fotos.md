@@ -62,3 +62,33 @@ no estúdio Terra De Lá
 ![000109090019.jpg](/img/user/img/000109090019.jpg)![462209516_2935323986635465_8978511749980242779_n.jpg](/img/user/img/462209516_2935323986635465_8978511749980242779_n.jpg)![000109090013.jpg](/img/user/img/000109090013.jpg)
 ![000109090014.jpg](/img/user/img/000109090014.jpg)
 ![000109090015.jpg](/img/user/img/000109090015.jpg)
+
+<html><head>
+
+  <meta name="description" content="fotos das pessoas do nó">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó: fotos" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/fotos" />
+
+  <meta property="og:description" content="fotos das pessoas do nó" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head></html>

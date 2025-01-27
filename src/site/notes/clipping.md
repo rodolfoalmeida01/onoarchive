@@ -123,3 +123,33 @@ zero garantia de que esses links estejam funcionando
 *"São duas bandas: O Grande Ogro e **O Nó**. Ambas de São Paulo, uma mais _noisy_, outra virada para o prog. (...) a segunda acaba de editar o seu primeiro EP, lançado em Outubro. Podem ouvir ambas aqui em baixo, mesmo que se situem a mais de 9000km de distância, porque a Internet serve para isso.*
 
 </div>
+
+<html><head>
+
+  <meta name="description" content="o que já disseram sobre o nó por aí">
+
+  <meta name="twitter:card" value="summary_large_image">
+
+  
+
+  <meta property="og:title" content="o nó: clipping" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="og:url" content="https://onorock.net/clipping" />
+
+  <meta property="og:description" content="o que já disseram sobre o nó por aí" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
+
+  <meta property="og:image:width" content="1600" />
+
+  <meta property="og:image:height" content="900" />
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img-small.png" />
+
+  <meta property="og:image:width" content="300" />
+
+  <meta property="og:image:height" content="300" />
+
+</head></html>
