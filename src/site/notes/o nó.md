@@ -46,3 +46,8 @@ bandaono4@gmail.com
 [[clipping\|clipping]]
 
 
+<div style='display:none;'>
+![share-img.png](/img/user/img/share-img.png)
+
+![share-img-small.png](/img/user/img/share-img-small.png)
+</div>
