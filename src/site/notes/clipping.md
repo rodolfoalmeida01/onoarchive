@@ -3,7 +3,7 @@
 ---
 
 # Clipping
-um pouco do que já foi dito sobre o nó
+um pouco do que já foi publicado sobre o nó
 zero garantia de que esses links estejam funcionando
 <br><br>
 𓀑𓀑𓀑𓀑𓀑
