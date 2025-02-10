@@ -55,6 +55,18 @@ Lançado em 4 de Dezembro de 2020
 Todas as músicas compostas e produzidas por Alexandre Drobac, Mateus Bentivegna, Matheus Perelmutter e Rodolfo Almeida (O Nó). Gravado no quarto do Matheus entre 2017 e 2019. Mixagem, masterização e co-produção de Otávio Bonazzi, com produção de vozes por André Ribeiro. Letra de "O Nó" escrita por Ana Cristina César (poema "nó" de 1968).<br><br>
 # Singles
 
+## Efígie
+![capa_efigie.jpg](/img/user/capa_efigie.jpg)
+*Foto de capa de Rodolfo Almeida*
+
+### [Bandcamp](https://oooooonnnnnnoooooo.bandcamp.com/track/ef-gie)
+
+05:02
+Lançado em 25 de Dezembro de 2024
+Produzida, mixada e masterizada por Nicholas Rabinovitch
+Gravada no Estúdio Terra de Lá
+Faixa que gravamos em 2016 e ficou anos esquecida no HD do Nicho até decidirmos lançar
+<br><br>
 ## Arquivo Corrente
 ![a2562190979_10.jpg](/img/user/img/a2562190979_10.jpg)
 *Ilustração de capa e símbolo de Larissa Laban com design de Alexandre Drobac*
