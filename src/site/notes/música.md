@@ -56,7 +56,7 @@ Todas as músicas compostas e produzidas por Alexandre Drobac, Mateus Bentivegna
 # Singles
 
 ## Efígie
-![capa_efigie.jpg](/img/user/capa_efigie.jpg)
+![capa_efigie.jpg](/img/user/img/capa_efigie.jpg)
 *Foto de capa de Rodolfo Almeida*
 
 ### [Bandcamp](https://oooooonnnnnnoooooo.bandcamp.com/track/ef-gie)

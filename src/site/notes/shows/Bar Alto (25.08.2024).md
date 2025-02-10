@@ -9,4 +9,4 @@ Casa lotada, dia de frio, calor intenso, primeiro show em 7 anos.
 ### Cartaz
 ![WhatsApp Image 2024-07-25 at 14.22.11_ff4b050a.jpg](/img/user/img/WhatsApp%20Image%202024-07-25%20at%2014.22.11_ff4b050a.jpg)
 
-### Fotos
+

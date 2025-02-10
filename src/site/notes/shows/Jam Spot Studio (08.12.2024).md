@@ -9,4 +9,3 @@ O Nó convida: festa da firma 2024. Festa de fim de ano, ensaio aberto com jam.
 ![festa-firma4.png](/img/user/img/festa-firma4.png)
 Cartazes do Rodolfo
 
-### Fotos
