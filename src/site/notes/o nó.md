@@ -32,7 +32,7 @@ inscreva-se na lista de email e saiba dos shows
 <br>
 𓅓𓅓𓅓
 <br>
-
+\
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>

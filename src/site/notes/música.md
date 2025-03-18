@@ -3,11 +3,6 @@
 ---
 
 # Música
-sons que o nó já lançou
-baixe de graça via bandcamp
-<br><br>
-𓃴𓃴𓃴𓃴𓃴
-<br><br>
 # Álbuns
 ## Era Normal
 ![a1851907546_10.jpg](/img/user/img/a1851907546_10.jpg)
