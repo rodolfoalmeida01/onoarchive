@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/musica/","noteIcon":"✦"}
 ---
 
-# Música
 # Álbuns
 ## Era Normal
 ![a1851907546_10.jpg](/img/user/img/a1851907546_10.jpg)
