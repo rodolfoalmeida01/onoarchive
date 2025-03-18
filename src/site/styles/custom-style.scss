@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
 
+@media (max-width: 768px) {
+    body {
+        font-family: "SimSun", 'Georgia', serif !important;
+    }
+
+    h1 {
+        font-family: "Ballet", serif !important;
+    }
+
+    h2, h3 {
+        font-family: "SimSun", system-ui, serif !important;
+    }
+}
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -24,6 +38,10 @@ body {
   	font-style: normal;
 	font-size: 5rem !important;
       	}
+
+	.filetree-sidebar h1 {
+    	display: none;
+	}
 
 	h2 {
 	text-transform: uppercase !important;
@@ -53,5 +71,19 @@ body {
 	color: var(--text-muted);
 	overflow-y: auto;
 	width: 250px;
+
+		@media (max-width: 768px) {
+    body {
+        font-family: "SimSun", 'Georgia', serif !important;
+    }
+
+    h1 {
+        font-family: "Ballet", serif !important;
+    }
+
+    h2, h3 {
+        font-family: "SimSun", system-ui, serif !important;
+    }
+}
 }
 }
