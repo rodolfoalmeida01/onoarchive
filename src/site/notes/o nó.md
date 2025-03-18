@@ -10,7 +10,8 @@ rock independente desde 2013
 são paulo/sp
 <br>
 ## acompanhe o nó
-inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamentos e rolês *(não vamos te mandar spam)*
+inscreva-se na lista de email e saiba dos shows 
+*(não vamos te mandar spam)*
 
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
@@ -20,10 +21,10 @@ inscreva-se na lista de email e te avisaremos quando tivermos shows, lançamento
   class="embeddable-buttondown-form"
 >
   <label for="bd-email">insira seu email</label>
-  <input type="email" name="email" id="bd-email" />
+  <input type="email" name="email" id="bd-email" style="color:black;background-color: #ff1f96;"/>
   
-  <input type="submit" value="me avise" />
-  <p>
+  <input type="submit" value="me avise" style="color:#ff1f96;background-color:black";/>
+  <p style="color: #515151;">
     enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
     
   </p>
