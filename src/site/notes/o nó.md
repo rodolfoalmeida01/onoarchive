@@ -23,7 +23,7 @@ inscreva-se na lista de email e saiba dos shows
   <label for="bd-email">insira seu email</label>
   <input type="email" name="email" id="bd-email" style="color:black;background-color: #ff1f96;"/>
   
-  <input type="submit" value="me avise" style="color:#ff1f96;background-color:black";/>
+  <input type="submit" value="me avise" style="color:#ff1f96;background-color:black;"/>
   <p style="color: #515151;">
     enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
     
@@ -32,7 +32,7 @@ inscreva-se na lista de email e saiba dos shows
 <br>
 𓅓𓅓𓅓
 <br>
-\
+
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
