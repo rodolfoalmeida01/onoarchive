@@ -20,7 +20,7 @@ inscreva-se na lista de email e saiba dos shows
   onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">insira seu email</label>
+  <label for="bd-email" style="color:#ff1f96">insira seu email</label>
   <input type="email" name="email" id="bd-email" style="color:black;background-color: #ff1f96;"/>
   
   <input type="submit" value="me avise" style="color:#ff1f96;background-color:black;"/>
