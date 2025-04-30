@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/o-no/","noteIcon":"✦"}
+{"dg-publish":true,"permalink":"/o-no/","tags":["gardenEntry"],"noteIcon":"✦"}
 ---
 
 ![Artboard 11.png](/img/user/img/Artboard%2011.png)
