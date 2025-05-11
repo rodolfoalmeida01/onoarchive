@@ -8,6 +8,7 @@
 
 ## psych rock independente desde 2013
 <br>
+
 [era normal](https://tratore.ffm.to/eranormal)
 [resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ)
 
