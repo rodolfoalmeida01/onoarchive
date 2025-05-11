@@ -12,7 +12,7 @@
 [era normal](https://tratore.ffm.to/eranormal/)
 [resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/)
 
-[clipes](https://open.spotify.com/artist/7J16c3pEuUA66noa3JIQmW?si=HrA2JK6nSj2pvyftqs9iSg)
+[clipes](https://www.youtube.com/@onorock)
 [[shows\|shows]]
 
 [bandcamp](https://onorock.bandcamp.com/)
