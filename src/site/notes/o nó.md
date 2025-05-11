@@ -6,12 +6,25 @@
 
 
 
-rock independente desde 2013
-são paulo/sp
+## psych rock independente desde 2013
 <br>
-## acompanhe o nó
-inscreva-se na lista de email e saiba dos shows 
-*(não vamos te mandar spam)*
+[era normal](https://tratore.ffm.to/eranormal)
+resquícios cromáticos
+
+[clipes](https://open.spotify.com/artist/7J16c3pEuUA66noa3JIQmW?si=HrA2JK6nSj2pvyftqs9iSg)
+[shows](shows)
+
+[bandcamp](https://onorock.bandcamp.com/)
+[instagram](https://www.instagram.com/onorock.br/)
+
+contato:
+bandaono4@gmail.com
+
+
+𓅓𓅓𓅓
+
+## lista de email
+seja avisado de shows 
 
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
@@ -24,22 +37,13 @@ inscreva-se na lista de email e saiba dos shows
   <input type="email" name="email" id="bd-email" style="color:black;background-color: #ff1f96;"/>
   
   <input type="submit" value="me avise" style="color:#ff1f96;background-color:black;"/>
-  <p style="color: #515151;">
-    enviado via <a href="https://buttondown.com/refer/onorock" target="_blank">buttondown</a>
-    
-  </p>
 </form></html>
 <br>
 𓅓𓅓𓅓
 <br>
-
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
-
-bandaono4@gmail.com
-[instagram](https://www.instagram.com/oooooonnnnnnoooooo/) • [bandcamp](https://oooooonnnnnnoooooo.bandcamp.com/album/era-normal)
-
 [[música\|música]]
 [[shows\|shows]]
 [[vídeos\|vídeos]]
