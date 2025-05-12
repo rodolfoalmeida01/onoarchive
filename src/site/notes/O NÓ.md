@@ -8,13 +8,13 @@
 
 ## psych rock independente <br>desde 2013
 <br>
-ouça [era normal](https://tratore.ffm.to/eranormal/)
-ouça [resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/)
-veja [clipes](https://www.youtube.com/@onorock/)
-vá em [[SHOWS\|shows]]
+ouça <a href='https://tratore.ffm.to/eranormal/' target='_blank'>era normal</a> 
+ouça <a href='https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/' target='_blank'>resquícios cromáticos</a>
+veja <a href='https://www.youtube.com/@onorock/' target='_blank'>clipes</a> 
+vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
 
 ## lista de email
-seja avisado de shows 
+saiba quando tiver show
 
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
@@ -29,7 +29,7 @@ seja avisado de shows
   <input type="submit" value="me avise" style="color:#fffda6;background-color:black;"/>
 </form></html>
 <br>
-[bandcamp](https://onorock.bandcamp.com/) • [instagram](https://www.instagram.com/onorock.br/) • bandaono4@gmail.com
+<a href='https://onorock.bandcamp.com/' target='_blank'>bandcamp</a> • <a href='https://www.instagram.com/onorock.br/' target='_blank'>instagram</a> • bandaono4@gmail.com
 <br>
 
 
