@@ -14,7 +14,7 @@
     }
 
     h2 {
-        font-family: "Slackside One", cursive;
+        font-family: "Slackside One", cursive !important;
         font-weight: 400;
         color: #FFFDA6 !important;
     }
@@ -65,7 +65,7 @@ h1 {
 
 h2 {
     text-transform: uppercase !important;
-    font-family: "Slackside One", cursive;
+    font-family: "Slackside One", cursive !important;
     font-weight: 400;
     color: #FFFDA6 !important;
 }
@@ -73,7 +73,8 @@ h2 {
 h3 {
     text-transform: uppercase !important;
     font-family: "SimSun", system-ui, serif !important;
-    color: #ffffff; /* Defina a cor corretamente */
+    color: #ffffff;
+    font-size: 
 }
 
 .filetree-sidebar {
