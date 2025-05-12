@@ -6,23 +6,12 @@
 
 
 
-## psych rock independente desde 2013
+## psych rock independente <br>desde 2013
 <br>
-
-[era normal](https://tratore.ffm.to/eranormal/)
-[resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/)
-
-[clipes](https://www.youtube.com/@onorock)
-[[shows\|shows]]
-
-[bandcamp](https://onorock.bandcamp.com/)
-[instagram](https://www.instagram.com/onorock.br/)
-
-contato:
-bandaono4@gmail.com
-
-
-𓅓𓅓𓅓
+ouça [era normal](https://tratore.ffm.to/eranormal/)
+ouça [resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/)
+veja [clipes](https://www.youtube.com/@onorock)
+vá em [[shows\|shows]]
 
 ## lista de email
 seja avisado de shows 
@@ -34,23 +23,22 @@ seja avisado de shows
   onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email" style="color:#ff1f96">insira seu email</label>
-  <input type="email" name="email" id="bd-email" style="color:black;background-color: #ff1f96;"/>
+  <label for="bd-email" style="color:#fffda6">insira seu email</label><br>
+  <input type="email" name="email" id="bd-email" style="color:black;background-color: #fffda6;max-width: 320px;"/>
   
-  <input type="submit" value="me avise" style="color:#ff1f96;background-color:black;"/>
+  <input type="submit" value="me avise" style="color:#fffda6;background-color:black;"/>
 </form></html>
 <br>
-𓅓𓅓𓅓
+[bandcamp](https://onorock.bandcamp.com/) • [instagram](https://www.instagram.com/onorock.br/) • bandaono4@gmail.com
 <br>
+
+
+
+
+
 <div style='display:none;'>
 ![b2.gif](/img/user/img/b2.gif)
 </div>
-[[música\|música]]
-[[shows\|shows]]
-[[vídeos\|vídeos]]
-[[fotos\|fotos]]
-[[clipping\|clipping]]
-
 
 <div style='display:none;'>
 ![share-img.png](/img/user/img/share-img.png)
