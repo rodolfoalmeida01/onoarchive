@@ -10,7 +10,7 @@
 <br>
 ouça [era normal](https://tratore.ffm.to/eranormal/)
 ouça [resquícios cromáticos](https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/)
-veja [clipes](https://www.youtube.com/@onorock)
+veja [clipes](https://www.youtube.com/@onorock/)
 vá em [[SHOWS\|shows]]
 
 ## lista de email
