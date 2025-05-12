@@ -28,8 +28,7 @@ vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
 </form></html>
 <br>
 <a href='https://onorock.bandcamp.com/' target='_blank'>bandcamp</a> • <a href='https://www.instagram.com/onorock.br/' target='_blank'>instagram</a> • bandaono4@gmail.com
-<br>
-![spiral2.gif](/img/user/img/gifs_geo/spiral2.gif)
+<br>![spiral2.gif](/img/user/img/gifs_geo/spiral2.gif)
 
 
 
