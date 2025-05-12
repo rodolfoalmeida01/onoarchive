@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kings&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Slackside+One&display=swap');
 
 @media (max-width: 768px) {
     body {
@@ -12,13 +13,23 @@
 	  font-weight: 400;
     }
 
-    h2, h3 {
-        font-family: "SimSun", system-ui, serif !important;
-    }
+    h2 {
+	font-family: "Slackside One", cursive;
+ 	font-weight: 400;    
+	color: #FFFDA6 !important;
+	}
+
+	h3 {
+		        font-family: "SimSun", "Noto Serif JP", 'Georgia', serif !important;
+	}
 }
 
 .external-link {
 	background-image: none !important;
+	padding-right: 0px;
+	background-size: 0px;
+
+
 }
 
 body {
@@ -26,6 +37,10 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+
+	a {
+	color: #ff1f96 !important;
+	}
 
 	background-color: black;
 	background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/2681ced072008a16791d1b52695bd8c0183e6e76/src/site/img/user/img/b2.gif") !important;
@@ -55,19 +70,26 @@ body {
 	display:none;
 	}
 
+	a {
+	color: #ff1f96 !important;
+	}
+	
+	
 	.navbar {
 	background-color: rgba(0,0,0,0);} 
 
 	h2 {
 	text-transform: uppercase !important;
-	font-weight: 800 !important;
-	font-family: "SimSun", system-ui, serif !important;
+  	font-family: "Slackside One", cursive;
+  	font-weight: 400;
+	color: ##FFFDA6 !important;
 	}
 
 
 	h3 {
 	text-transform: uppercase !important;
 	font-family: "SimSun", system-ui, serif !important;
+	color: 
 	}
 
 	.nav h1 {
@@ -87,19 +109,6 @@ body {
 	overflow-y: auto;
 	width: 250px;
 
-		@media (max-width: 768px) {
-    body {
-        font-family: "SimSun", 'Georgia', serif !important;
-    }
-
-    h1 {
- 	 font-family: "Kings", cursive;
- 	 font-weight: 400;    
-	}
-
-    h2, h3 {
-        font-family: "SimSun", system-ui, serif !important;
-    }
 }
 }
 }
