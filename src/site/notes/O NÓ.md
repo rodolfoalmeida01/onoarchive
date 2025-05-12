@@ -14,8 +14,6 @@ veja <a href='https://www.youtube.com/@onorock/' target='_blank'>clipes</a>
 vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
 
 ## lista de email
-saiba quando tiver show
-
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
   method="post"
@@ -26,7 +24,7 @@ saiba quando tiver show
   <label for="bd-email" style="color:#fffda6">insira seu email</label><br>
   <input type="email" name="email" id="bd-email" style="color:black;background-color: #fffda6;max-width: 320px;"/>
   
-  <input type="submit" value="me avise" style="color:#fffda6;background-color:black;"/>
+  <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
 </form></html>
 <br>
 <a href='https://onorock.bandcamp.com/' target='_blank'>bandcamp</a> • <a href='https://www.instagram.com/onorock.br/' target='_blank'>instagram</a> • bandaono4@gmail.com
