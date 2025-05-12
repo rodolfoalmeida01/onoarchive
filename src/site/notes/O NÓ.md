@@ -22,7 +22,8 @@ vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
   class="embeddable-buttondown-form"
 >
   <label for="bd-email" style="color:#fffda6">insira seu email</label><br>
-  <input type="email" name="email" id="bd-email" style="color:black;background-color: #fffda6;max-width: 320px;"/>
+<input type="email" name="email" id="bd-email" 
+  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
   
   <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
 </form></html>
