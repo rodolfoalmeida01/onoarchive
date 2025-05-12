@@ -4,8 +4,8 @@
 
 <div style='display:none'>![Mystical-Dragon.gif](/img/user/img/gifs_geo/Mystical-Dragon.gif)</div>
 <img src='https://onorock.net/img/user/img/gifs_geo/Mystical-Dragon.gif'><br>
-## psych rock independente <br>desde 2013
 
+## psych rock independente<br>desde 2013
 <br>
 ouça <a href='https://tratore.ffm.to/eranormal/' target='_blank'>era normal</a> <br>
 ouça <a href='https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/' target='_blank'>resquícios cromáticos</a><br>
