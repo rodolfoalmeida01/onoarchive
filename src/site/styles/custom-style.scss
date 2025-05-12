@@ -9,106 +9,83 @@
     }
 
     h1 {
-          font-family: "Kings", cursive;
-	  font-weight: 400;
+        font-family: "Kings", cursive;
+        font-weight: 400;
     }
 
     h2 {
-	font-family: "Slackside One", cursive;
- 	font-weight: 400;    
-	color: #FFFDA6 !important;
-	}
+        font-family: "Slackside One", cursive;
+        font-weight: 400;
+        color: #FFFDA6 !important;
+    }
 
-	h3 {
-		        font-family: "SimSun", "Noto Serif JP", 'Georgia', serif !important;
-	}
+    h3 {
+        font-family: "SimSun", "Noto Serif JP", 'Georgia', serif !important;
+    }
 }
 
 .external-link {
-	background-image: none !important;
-	padding-right: 0px;
-	background-size: 0px;
-
-
+    background-image: none !important;
+    padding-right: 0px;
+    background-size: 0px;
 }
 
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-
-	a {
-	color: #ff1f96 !important;
-	}
-
-	background-color: black;
-	background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/2681ced072008a16791d1b52695bd8c0183e6e76/src/site/img/user/img/b2.gif") !important;
-	background-repeat: repeat !important;
-	font-family: "SimSun", "Noto Serif JP", "Georgia", serif !important;
-	
-	.content {
-	font-size: 20px;
-	text-align: center;
-      }
-	
-      	h1 {
-	color: #57f4ff !important;
-  	font-family: "Kings", cursive !important;
-  	font-weight: 400;  	
-	font-optical-sizing: auto;
-  	font-weight: 400;
-  	font-style: normal;
-	font-size: 5rem !important;
-      	}
-
-	.filetree-sidebar h1 {
-    	display: none;
-	}
-
-	.navbar h1 {
-	display:none;
-	}
-
-	a {
-	color: #ff1f96 !important;
-	}
-	
-	
-	.navbar {
-	background-color: rgba(0,0,0,0);} 
-
-	h2 {
-	text-transform: uppercase !important;
-  	font-family: "Slackside One", cursive;
-  	font-weight: 400;
-	color: #FFFDA6 !important;
-	}
-
-
-	h3 {
-	text-transform: uppercase !important;
-	font-family: "SimSun", system-ui, serif !important;
-	color: 
-	}
-
-	.nav h1 {
-	display: none;
-	}
-
-    	.filetree-sidebar {
-	margin: 0;
-	z-index: 10;
-	padding: 10px;
-	top: 0px;
-	left: 0;
-	position: fixed;
-	height: 100%;
-	background-color: black;
-	color: var(--text-muted);
-	overflow-y: auto;
-	width: 250px;
-
+    background-color: black;
+    background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/2681ced072008a16791d1b52695bd8c0183e6e76/src/site/img/user/img/b2.gif") !important;
+    background-repeat: repeat !important;
+    font-family: "SimSun", "Noto Serif JP", "Georgia", serif !important;
 }
+
+a {
+    color: #ff1f96 !important;
 }
+
+.content {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #57f4ff !important;
+    font-family: "Kings", cursive !important;
+    font-weight: 400;
+    font-size: 5rem !important;
+}
+
+.filetree-sidebar h1,
+.navbar h1,
+.nav h1 {
+    display: none;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+h2 {
+    text-transform: uppercase !important;
+    font-family: "Slackside One", cursive;
+    font-weight: 400;
+    color: #FFFDA6 !important;
+}
+
+h3 {
+    text-transform: uppercase !important;
+    font-family: "SimSun", system-ui, serif !important;
+    color: #ffffff; /* Defina a cor corretamente */
+}
+
+.filetree-sidebar {
+    margin: 0;
+    z-index: 10;
+    padding: 10px;
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100%;
+    background-color: black;
+    color: var(--text-muted);
+    overflow-y: auto;
+    width: 250px;
 }
