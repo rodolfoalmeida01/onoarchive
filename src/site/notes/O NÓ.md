@@ -11,7 +11,7 @@ ouça <a href='https://tratore.ffm.to/eranormal/' target='_blank'>era normal</a>
 ouça <a href='https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/' target='_blank'>resquícios cromáticos</a><br>
 veja <a href='https://www.youtube.com/@onorock/' target='_blank'>clipes</a> <br>
 vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
-
+<br>
 ## lista de email
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
