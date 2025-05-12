@@ -30,7 +30,7 @@ vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a>
 <a href='https://onorock.bandcamp.com/' target='_blank'>bandcamp</a> • <a href='https://www.instagram.com/onorock.br/' target='_blank'>instagram</a> • bandaono4@gmail.com
 <br>
 <img src='https://onorock.net/img/user/img/gifs_geo/spiral_bottom.gif'>
-![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)
+<div style='display:none'>![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)</div>
 
 
 
