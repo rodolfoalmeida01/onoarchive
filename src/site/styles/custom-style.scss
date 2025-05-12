@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kings&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Slackside+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
 
 @media (max-width: 768px) {
     body {
@@ -14,7 +14,7 @@
     }
 
     h2 {
-        font-family: "Slackside One", cursive !important;
+        font-family: "Tagesschrift", system-ui !important;
         font-weight: 400;
         color: #FFFDA6 !important;
     }
@@ -65,7 +65,7 @@ h1 {
 
 h2 {
     text-transform: uppercase !important;
-    font-family: "Slackside One", cursive !important;
+    font-family: "Tagesschrift", system-ui !important;
     font-weight: 400;
     color: #FFFDA6 !important;
 }
