@@ -3,7 +3,7 @@
 ---
 
 <div style='display:none'>![Mystical-Dragon.gif](/img/user/img/gifs_geo/Mystical-Dragon.gif)</div>
-<img src='https://onorock.net/img/user/img/gifs_geo/Mystical-Dragon.gif'>
+<img src='https://onorock.net/img/user/img/gifs_geo/Mystical-Dragon.gif'><br>
 ## psych rock independente <br>desde 2013
 
 <br>
