@@ -3,6 +3,9 @@
 ---
 
 # Shows
+
+## [[shows/Porta (07.06.2025)\|Porta (07.06.2025)]]
+Primeiro show com Tamashiro na guita.
 ## [[shows/FFFront (17.01.2025)\|FFFront (17.01.2025)]]. 
 O Nó (de volta ao presencial). Homenagem a David Lynch
 
