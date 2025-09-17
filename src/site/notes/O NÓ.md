@@ -9,7 +9,7 @@
 <br>
 <br><br>
 
-## lista de email
+lista de email
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
   method="post"
