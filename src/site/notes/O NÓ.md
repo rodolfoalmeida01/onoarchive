@@ -7,10 +7,7 @@
 
 ## psych rock independente<br>desde 2013
 <br>
-ouça <a href='https://tratore.ffm.to/eranormal/' target='_blank'>era normal</a> <br>
-ouça <a href='https://open.spotify.com/album/27p51tcQT9tVXNCyglqfYc?si=I8PafEweT7KXTdlsOTGEoQ/' target='_blank'>resquícios cromáticos</a><br>
-veja <a href='https://www.youtube.com/@onorock/' target='_blank'>clipes</a> <br>
-vá em <a href='https://onorock.net/shows/' target='_blank'>shows</a> <br><br>
+<br><br>
 
 ## lista de email
 <html><form
