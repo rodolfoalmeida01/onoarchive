@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/o-no/","tags":["gardenEntry"],"noteIcon":"✦"}
 ---
 
+<div style='text-align: center !important;'>
+
 <div style='display:none'>![Mystical-Dragon.gif](/img/user/img/gifs_geo/Mystical-Dragon.gif)</div>
 <img src='https://onorock.net/img/user/img/gifs_geo/Mystical-Dragon.gif'><br>
 
 ## psych rock independente<br>desde 2013
-
-
-
 
   <div style="
     width: 100%;
@@ -27,9 +26,10 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #0f0750;
+      background-color: #000000;
       border-radius: 12px;
-    ">Instagram</a>
+      border-color: #ff1f96;
+    ">INSTAGRAM</a>
 
     <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
       display: block;
@@ -40,9 +40,10 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #0f0750;
+      background-color: #000000;
       border-radius: 12px;
-    ">Spotify</a>
+      border-color: #ff1f96;
+    ">SPOTIFY</a>
 
     <a href="https://onorock.bandcamp.com/" target="_blank" style="
       display: block;
@@ -53,9 +54,10 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #0f0750;
+      background-color: #000000;
       border-radius: 12px;
-    ">Bandcamp</a>
+      border-color: #ff1f96;
+    ">BANDCAMP</a>
 
     <a href="https://www.youtube.com/@onorock" target="_blank" style="
       display: block;
@@ -66,9 +68,10 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #0f0750;
+      background-color: #000000;
       border-radius: 12px;
-    ">YouTube</a>
+      border-color: #ff1f96;
+    ">YOUTUBE</a>
 
     <a href="mailto:bandaono4@gmail.com" style="
       display: block;
@@ -79,9 +82,10 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #0f0750;
+      background-color: #000000;
       border-radius: 12px;
-    ">Contato</a>
+      border-color: #ff1f96;
+    ">EMAIL</a>
 
     <!-- Lançamentos -->
     <a href="https://tratore.ffm.to/eranormal" target="_blank" style="
@@ -95,7 +99,8 @@
       color: #0f0f0f;
       background-color: #000000;
       border-radius: 12px;
-    ">Era Normal</a>
+      border-color: #ff1f96;
+    ">ERA NORMAL (2024)</a>
 
     <a href="https://onerpm.link/6002853233" target="_blank" style="
       display: block;
@@ -108,7 +113,8 @@
       color: #0f0f0f;
       background-color: #000000;
       border-radius: 12px;
-    ">Resquícios Cromáticos</a>
+      border-color: #ff1f96;
+    ">RESQUÍCIOS CROMÁTICOS (2020)</a>
 
     <a href="https://onerpm.link/287964400" target="_blank" style="
       display: block;
@@ -120,7 +126,8 @@
       color: #0f0f0f;
       background-color: #000000;
       border-radius: 12px;
-    ">EP1 — Quasar</a>
+      border-color: #ff1f96;
+    ">EP1 — Quasar (2015)</a>
 
   </div>
 
@@ -138,6 +145,7 @@
 ![share-img.png](/img/user/img/share-img.png)
 
 ![share-img-small.png](/img/user/img/share-img-small.png)
+</div>
 </div>
 
 <html><head>
