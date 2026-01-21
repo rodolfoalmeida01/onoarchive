@@ -13,6 +13,8 @@
     padding: 20px;
     box-sizing: border-box;
     text-align:center;
+      border-color: #ff1f96;
+      border-style: single;
   ">
 
     <!-- Redes e contato -->
@@ -26,8 +28,6 @@
       font-weight: 600;
       background-color: #000000;
       border-radius: 12px;
-      border-color: #ff1f96;
-      border-style: single;
     ">INSTAGRAM</a>
 
     <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
