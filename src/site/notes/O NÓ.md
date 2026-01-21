@@ -10,7 +10,6 @@
 <div style='text-align:center !important;>
   <div style="
     width: 100%;
-    max-width: 480px;
     padding: 20px;
     box-sizing: border-box;
     text-align:center;
