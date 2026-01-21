@@ -27,7 +27,7 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #1a1a1a;
+      background-color: #0f0750;
       border-radius: 12px;
     ">Instagram</a>
 
@@ -40,7 +40,7 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #1a1a1a;
+      background-color: #0f0750;
       border-radius: 12px;
     ">Spotify</a>
 
@@ -53,7 +53,7 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #1a1a1a;
+      background-color: #0f0750;
       border-radius: 12px;
     ">Bandcamp</a>
 
@@ -66,7 +66,7 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #1a1a1a;
+      background-color: #0f0750;
       border-radius: 12px;
     ">YouTube</a>
 
@@ -79,7 +79,7 @@
       font-size: 18px;
       font-weight: 600;
       color: #ffffff;
-      background-color: #1a1a1a;
+      background-color: #0f0750;
       border-radius: 12px;
     ">Contato</a>
 
@@ -93,7 +93,7 @@
       font-size: 17px;
       font-weight: 600;
       color: #0f0f0f;
-      background-color: #ffffff;
+      background-color: #000000;
       border-radius: 12px;
     ">Era Normal</a>
 
@@ -106,7 +106,7 @@
       font-size: 17px;
       font-weight: 600;
       color: #0f0f0f;
-      background-color: #ffffff;
+      background-color: #000000;
       border-radius: 12px;
     ">Resquícios Cromáticos</a>
 
@@ -118,7 +118,7 @@
       font-size: 17px;
       font-weight: 600;
       color: #0f0f0f;
-      background-color: #ffffff;
+      background-color: #000000;
       border-radius: 12px;
     ">EP1 — Quasar</a>
 
