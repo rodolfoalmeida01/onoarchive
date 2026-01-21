@@ -6,31 +6,136 @@
 <img src='https://onorock.net/img/user/img/gifs_geo/Mystical-Dragon.gif'><br>
 
 ## psych rock independente<br>desde 2013
-<br>
-<br><br>
 
-lista de email
-<html><form
-  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
 
-<input type="email" name="email" id="bd-email" 
-  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
-  
-  <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
-</form></html>
-<br>
-<a href='https://onorock.bandcamp.com/' target='_blank'>bandcamp</a> • <a href='https://www.instagram.com/onorock.br/' target='_blank'>instagram</a> • bandaono4@gmail.com
+<body style="
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f0f0f;
+">
+
+  <div style="
+    width: 100%;
+    max-width: 480px;
+    padding: 20px;
+    box-sizing: border-box;
+  ">
+
+    <!-- Redes e contato -->
+    <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #1a1a1a;
+      border-radius: 12px;
+    ">Instagram</a>
+
+    <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #1a1a1a;
+      border-radius: 12px;
+    ">Spotify</a>
+
+    <a href="https://onorock.bandcamp.com/" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #1a1a1a;
+      border-radius: 12px;
+    ">Bandcamp</a>
+
+    <a href="https://www.youtube.com/@onorock" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #1a1a1a;
+      border-radius: 12px;
+    ">YouTube</a>
+
+    <a href="mailto:bandaono4@gmail.com" style="
+      display: block;
+      margin-bottom: 32px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #ffffff;
+      background-color: #1a1a1a;
+      border-radius: 12px;
+    ">Contato</a>
+
+    <!-- Lançamentos -->
+    <a href="https://tratore.ffm.to/eranormal" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 22px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 17px;
+      font-weight: 600;
+      color: #0f0f0f;
+      background-color: #ffffff;
+      border-radius: 12px;
+    ">Era Normal</a>
+
+    <a href="https://onerpm.link/6002853233" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 22px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 17px;
+      font-weight: 600;
+      color: #0f0f0f;
+      background-color: #ffffff;
+      border-radius: 12px;
+    ">Resquícios Cromáticos</a>
+
+    <a href="https://onerpm.link/287964400" target="_blank" style="
+      display: block;
+      padding: 22px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 17px;
+      font-weight: 600;
+      color: #0f0f0f;
+      background-color: #ffffff;
+      border-radius: 12px;
+    ">EP1 — Quasar</a>
+
+  </div>
+
+</body>
+
 <br><br><br>
 <img src='https://onorock.net/img/user/img/gifs_geo/spiral_bottom.gif'>
-<div style='display:none'>![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)</div>
-
-
-
+<div style='display:none'>![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)
 
 
 <div style='display:none;'>
@@ -66,3 +171,20 @@ lista de email
   <meta property="og:image:height" content="900" />
 
 </head></html>
+
+
+<div style='display:none'>
+lista de email
+<html><form
+  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+
+<input type="email" name="email" id="bd-email" 
+  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
+  
+  <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
+</form></html></div>
