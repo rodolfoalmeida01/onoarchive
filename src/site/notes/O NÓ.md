@@ -7,11 +7,13 @@
 
 ## psych rock independente<br>desde 2013
 
+<div style='text-align:center !important;>
   <div style="
     width: 100%;
     max-width: 480px;
     padding: 20px;
     box-sizing: border-box;
+    text-align:center;
   ">
 
     <!-- Redes e contato -->
@@ -26,7 +28,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">INSTAGRAM</a>
 
     <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
@@ -40,7 +42,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">SPOTIFY</a>
 
     <a href="https://onorock.bandcamp.com/" target="_blank" style="
@@ -54,7 +56,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">BANDCAMP</a>
 
     <a href="https://www.youtube.com/@onorock" target="_blank" style="
@@ -68,7 +70,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">YOUTUBE</a>
 
     <a href="mailto:bandaono4@gmail.com" style="
@@ -82,7 +84,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">EMAIL</a>
 
     <!-- Lançamentos -->
@@ -97,7 +99,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">ERA NORMAL (2024)</a>
 
     <a href="https://onerpm.link/6002853233" target="_blank" style="
@@ -111,7 +113,7 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">RESQUÍCIOS CROMÁTICOS (2020)</a>
 
     <a href="https://onerpm.link/287964400" target="_blank" style="
@@ -124,11 +126,11 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96;
-      border-style: double;
+      border-style: single;
     ">EP1 — Quasar (2015)</a>
 
   </div>
-
+</div>
 
 <br><br><br>
 <img src='https://onorock.net/img/user/img/gifs_geo/spiral_bottom.gif'>
