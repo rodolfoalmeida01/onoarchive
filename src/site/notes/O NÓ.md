@@ -7,7 +7,7 @@
 
 ## psych rock independente<br>desde 2013
 
-<div style='text-align:center !important;>
+<div style='text-align:center !important;'>
   <div style="
     width: 100%;
     padding: 20px;
