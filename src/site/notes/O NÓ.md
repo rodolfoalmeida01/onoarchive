@@ -8,14 +8,7 @@
 ## psych rock independente<br>desde 2013
 
 
-<body style="
-  margin: 0;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #0f0f0f;
-">
+
 
   <div style="
     width: 100%;
@@ -131,7 +124,6 @@
 
   </div>
 
-</body>
 
 <br><br><br>
 <img src='https://onorock.net/img/user/img/gifs_geo/spiral_bottom.gif'>
