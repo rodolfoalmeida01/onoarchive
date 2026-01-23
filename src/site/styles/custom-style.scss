@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kings&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
 
 @media (max-width: 768px) {
     body {
-        font-family: "Noto Serif JP", 'Georgia', serif !important;
+        font-family: "Libertinus Serif", 'Georgia', serif !important;
         font-size: 1rem;
     }
 
@@ -20,7 +20,7 @@
     }
 
     h3 {
-        font-family: "Noto Serif JP", 'Georgia', serif !important;
+        font-family: "Libertinus Serif", 'Georgia', serif !important;
     }
 
     .filename {
@@ -48,7 +48,7 @@ body {
     background-color: #131520;
     background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/2681ced072008a16791d1b52695bd8c0183e6e76/src/site/img/user/img/bg.gif") !important;
     background-repeat: repeat !important;
-    font-family: "Noto Serif JP", "Georgia", serif !important;
+    font-family: "Libertinus Serif", "Georgia", serif !important;
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before, body.filetree-note-icon .filename[data-note-icon]::before, body.links-note-icon .internal-link[data-note-icon]::before, body.backlinks-note-icon .backlink[data-note-icon]::before {
@@ -90,7 +90,7 @@ h2 {
 
 h3 {
     text-transform: uppercase !important;
-    font-family: "Noto Serif JP", system-ui, serif !important;
+    font-family: "Libertinus Serif", system-ui, serif !important;
     color: #ffffff;
 }
 
