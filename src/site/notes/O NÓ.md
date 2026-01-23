@@ -166,7 +166,7 @@
 
 <html><head>
 
-  <meta name="description" content="o arquivo online do nó: rock independente desde 2013">
+  <meta name="description" content="o nó ☾ rock independente desde 2013">
 
   <meta name="twitter:card" value="summary_large_image">
 
@@ -178,7 +178,7 @@
 
   <meta property="og:url" content="https://onorock.net/" />
 
-  <meta property="og:description" content="o arquivo online do nó: rock independente desde 2013" />
+  <meta property="og:description" content="o nó ☾ rock independente desde 2013" />
 
   <meta property="og:image" content="https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/share-img.png" />
 
