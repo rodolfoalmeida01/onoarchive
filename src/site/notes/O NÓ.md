@@ -154,7 +154,7 @@
 
 
 <div style='display:none;'>
-![b2.gif](/img/user/img/b2.gif)
+![[b2.gif\|b2.gif]]
 </div>
 
 <div style='display:none;'>
