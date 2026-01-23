@@ -14,8 +14,8 @@
     padding: 20px;
     box-sizing: border-box;
     text-align:center;
-      border-color: #ff1f96;
-      border-style: single;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
   ">
 
     <!-- Redes e contato -->
