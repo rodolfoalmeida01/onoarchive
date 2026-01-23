@@ -3,7 +3,9 @@
 ---
 
 
-<br>![swirlinho.png](/img/user/img/swirlinho.png)
+<div style='display:none'>![swirlinho.png](/img/user/img/swirlinho.png)</div>
+<img src='https://onorock.net/img/user/img/swirlinho.png'><br>
+
 ## rock independente<br>desde 2013
 
 <div style='text-align:center !important;'>
