@@ -146,7 +146,6 @@
 </div>
 
 <br><br><br>
-<img src='https://onorock.net/img/user/img/gifs_geo/spiral_bottom.gif'>
 <div style='display:none'>![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)
 
 
