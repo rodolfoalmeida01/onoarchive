@@ -4,7 +4,7 @@
 
 @media (max-width: 768px) {
     body {
-        font-family: "SimSun", "Noto Serif JP", 'Georgia', serif !important;
+        font-family: "Noto Serif JP", 'Georgia', serif !important;
         font-size: 1rem;
     }
 
@@ -20,7 +20,7 @@
     }
 
     h3 {
-        font-family: "SimSun", "Noto Serif JP", 'Georgia', serif !important;
+        font-family: "Noto Serif JP", 'Georgia', serif !important;
     }
 
     .filename {
@@ -46,7 +46,9 @@
 
 body {
     background-color: #131520;
-    font-family: "SimSun", "Noto Serif JP", "Georgia", serif !important;
+    background-image: url("https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/2681ced072008a16791d1b52695bd8c0183e6e76/src/site/img/user/img/b2.gif") !important;
+    background-repeat: repeat !important;
+    font-family: "Noto Serif JP", "Georgia", serif !important;
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before, body.filetree-note-icon .filename[data-note-icon]::before, body.links-note-icon .internal-link[data-note-icon]::before, body.backlinks-note-icon .backlink[data-note-icon]::before {
@@ -66,7 +68,7 @@ h1 {
     color: #57f4ff !important;
     font-family: "Kings", cursive !important;
     font-weight: 400;
-    font-size: 5rem !important;
+    font-size: 4rem !important;
 }
 
 .filetree-sidebar h1,
@@ -88,7 +90,7 @@ h2 {
 
 h3 {
     text-transform: uppercase !important;
-    font-family: "SimSun", system-ui, serif !important;
+    font-family: "Noto Serif JP", system-ui, serif !important;
     color: #ffffff;
 }
 
