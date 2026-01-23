@@ -4,7 +4,7 @@
 
 
 <div style='display:none'>![swirlinho.png](/img/user/img/swirlinho.png)</div>
-<img src='https://onorock.net/img/user/img/swirlinho.png'><br>
+<img src='https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/swirlinho.png'><br>
 
 ## rock independente<br>desde 2013
 
