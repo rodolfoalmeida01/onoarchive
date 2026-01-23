@@ -6,7 +6,7 @@
 <div style='text-align: left !important;'>
 
 ### [Alto Falante (Rede Minas, 21.10.2024)](https://www.youtube.com/watch?v=hPRgp9AJPx8&t=74s):  Desatamos O NÓ, no Garimpo 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hPRgp9AJPx8?si=ucN2Ihzf_NKx0nv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style='max-width:560px'><iframe width="560" height="315" src="https://www.youtube.com/embed/hPRgp9AJPx8?si=ucN2Ihzf_NKx0nv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### [Monkeybuzz (19.07.2024)](https://monkeybuzz.com.br/materias/sinapse-a-estetica-da-burocracia/): SINAPSE: a estética da burocracia
 *"Ouvindo o novo trabalho da banda **O Nó**, intitulado Era Normal, a primeira coisa que me vem à mente é a tal estética da burocracia. (...) No entanto, Era Normal não parece falar apenas na dignidade resignada do funcionalismo público, mas sim da mentalidade do escritório, do discurso da firma neoliberal que se assentou como verdade, que suga nossas forças vitais, precarizando o ambiente de trabalho, enquanto nos convence de que isso é hidratação, destaque, superação ou, enfim, empreendedorismo.* 
