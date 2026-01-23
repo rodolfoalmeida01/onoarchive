@@ -144,7 +144,7 @@
       border-radius: 12px;
       border-color: #ff1f96 !important;
       border-style: single !important;
-    ">EP1 — Quasar (2015)</a>
+    ">EP1 — QUASAR (2015)</a>
 
   </div>
 </div>
