@@ -89,7 +89,9 @@
       border-style: single !important;
     ">EMAIL</a>
 </div></div>
-# Álbuns
+<h1>Lançamentos</h1>
+
+
 
 <div style='text-align:center !important;'>
   <div style="
