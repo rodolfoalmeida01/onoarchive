@@ -5,9 +5,9 @@
 # Fotos
 # 2025
 fotos do Luis Aranguri
-![[[26] Kodacolor 200.jpg]]
-![[[28] Kodacolor 200.jpg]]
-![[[32] Kodacolor 200.jpg]]
+![26 Kodacolor 200.jpg](/img/user/img/26%20Kodacolor%20200.jpg)
+![28 Kodacolor 200.jpg](/img/user/img/28%20Kodacolor%20200.jpg)
+![32 Kodacolor 200.jpg](/img/user/img/32%20Kodacolor%20200.jpg)
 
 # 2024
 fotos do Bruno Lescher
