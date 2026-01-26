@@ -4,12 +4,15 @@
 
 # Shows
 
-## [[shows/Estúdio Aurora (29.11.2025)\|Estúdio Aurora (29.11.2025)]]
+## [[shows/Estúdio Aurora (29.11.2025)\|Estúdio Aurora (29.11.2025)]].
 Show com Agapantos
-## [[shows/Jam Spot Studio (02.08.2025)\|Jam Spot Studio (02.08.2025)]]
+
+## [[shows/Jam Spot Studio (02.08.2025)\|Jam Spot Studio (02.08.2025)]].
 Ensaio aberto com repertório novo
-## [[shows/Porta (07.06.2025)\|Porta (07.06.2025)]]
+
+## [[shows/Porta (07.06.2025)\|Porta (07.06.2025)]].
 Primeiro show com Tamashiro na guita.
+
 ## [[shows/FFFront (17.01.2025)\|FFFront (17.01.2025)]]. 
 O Nó (de volta ao presencial). Homenagem a David Lynch
 
