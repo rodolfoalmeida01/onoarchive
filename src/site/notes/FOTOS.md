@@ -9,7 +9,6 @@ fotos do Luis Aranguri
 ![[[28] Kodacolor 200.jpg]]
 ![[[32] Kodacolor 200.jpg]]
 
-
 # 2024
 fotos do Bruno Lescher
 ![000044500035.jpeg](/img/user/img/000044500035.jpeg)
