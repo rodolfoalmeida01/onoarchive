@@ -27,6 +27,7 @@
       padding: 20px;
       text-align: center;
       text-decoration: none;
+      color: #f8615d !important;
       font-size: 18px;
       font-weight: 600;
       background-color: #000000;
