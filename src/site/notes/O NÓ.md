@@ -21,6 +21,20 @@
   ">
 
     <!-- Redes e contato -->
+    <a href="https://ditto.fm/fogo-e" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: #000000;
+      border-radius: 12px;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
+    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) PRÉ-SAVE: FOGO (É)</a>
+    
     <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
       display: block;
       margin-bottom: 16px;
