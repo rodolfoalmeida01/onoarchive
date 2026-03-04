@@ -4,8 +4,8 @@
 
 
 <div style='display:none'>![swirlizinho.png](/img/user/img/swirlizinho.png)</div>
-<img src='https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/swirlizinho.png' style='max-width: 300px;'><br>
-![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
+<img src='https://raw.githubusercontent.com/rodolfoalmeida01/onoarchive/refs/heads/main/src/site/img/user/img/ono-lettering-verde.png' style='max-width: 300px;'><br>
+
 
 
 ## rock independente<br>desde 2013
