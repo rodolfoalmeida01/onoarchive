@@ -3,7 +3,7 @@
 ---
 
 ## Casa do Mancha (03.12.2016)
-Ombu, Papisa e O Nó. Um dos shows mais legais.
+Ombu, Papisa e O Nó.
 
 ## Cartaz
 ![ombu-no-papisa-mancha.gif](/img/user/img/ombu-no-papisa-mancha.gif)

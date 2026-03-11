@@ -4,7 +4,7 @@
 
 ## Escola Waldorf Rudolf Steiner (12.04.2014)
 
-Era um festival com mais gente se apresentando mas não lembramos quem. Único show com a [Meuri](https://meurielle.art/) cantando.  
+Era um festival com mais gente se apresentando mas não lembramos quem. Meuri cantou também.
 
 ### Fotos
 ![459093127_2906828036151727_2154788782450393170_n.jpg](/img/user/img/459093127_2906828036151727_2154788782450393170_n.jpg)![459298202_2906841826150348_6655488186868827653_n.jpg](/img/user/img/459298202_2906841826150348_6655488186868827653_n.jpg)

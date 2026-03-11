@@ -4,7 +4,7 @@
 
 ## ECA-USP (14.03.2016)
 **QiB do Fico: O Nó, Retina + DJs**
-Show de graça contra a ordem de despejo da sede do Sindicato dos Trabalhadores da USP, show na geodésica, tinha um nenê na plateia.  
+Show de graça contra a ordem de despejo da sede do Sindicato dos Trabalhadores da USP, show na geodésica.
 
 ### Cartaz
 ![462935977_2941070816060782_6713368649403292489_n.jpg](/img/user/img/462935977_2941070816060782_6713368649403292489_n.jpg)

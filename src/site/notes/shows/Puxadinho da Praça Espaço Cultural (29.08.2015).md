@@ -5,7 +5,7 @@
 ## Puxadinho da Praça (29.08.2015)
 
 **VII Festa Terra de Lá: Mamparra e O Nó**. 
-Tocamos uma jam meio disco. 
+
 
 ### Cartazes
 ![Pasted image 20250119182449.png](/img/user/img/Pasted%20image%2020250119182449.png)

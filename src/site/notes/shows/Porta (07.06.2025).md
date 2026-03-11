@@ -5,8 +5,7 @@
 ## Porta (07.06.2025)
 
 **O Nó com eliminadorzinho e wonguinho** 
-Primeiro show com Tamashiro na guitarra. Lançamento do single 'A cidade é uma selva' da eliminadorzinho.
-
+Primeiro show com Tamashiro na guitarra.
 ### Cartaz
 ![WhatsApp Image 2025-06-04 at 13.52.18_fe99f6ea.jpg](/img/user/img/WhatsApp%20Image%202025-06-04%20at%2013.52.18_fe99f6ea.jpg)
 

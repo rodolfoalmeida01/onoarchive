@@ -3,6 +3,13 @@
 ---
 
 # Fotos
+# 2026
+fotos do Luis Aranguri
+![Foto_ Luis Aranguri(1).jpg](/img/user/img/Foto_%20Luis%20Aranguri(1).jpg)
+
+![Foto_ Luis Aranguri(2).jpg](/img/user/img/Foto_%20Luis%20Aranguri(2).jpg)
+
+![Foto_ Luis Aranguri.jpg](/img/user/img/Foto_%20Luis%20Aranguri.jpg)
 # 2025
 fotos do Luis Aranguri
 ![26 Kodacolor 200.jpg](/img/user/img/26%20Kodacolor%20200.jpg)

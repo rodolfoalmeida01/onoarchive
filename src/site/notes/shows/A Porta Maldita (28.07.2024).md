@@ -4,7 +4,6 @@
 
 ## A Porta Maldita (28.07.2024)
 **O Nó, Mal visto, Boca de Leoa** 
-Público diminuto.
 
 ### Cartaz
 ![poster-ono.png](/img/user/img/poster-ono.png)
