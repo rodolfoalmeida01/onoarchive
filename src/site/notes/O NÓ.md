@@ -36,7 +36,26 @@
       border-radius: 12px;
       border-color: #ff1f96 !important;
       border-style: single !important;
-    "><iframe width="560" height="315" src="https://www.youtube.com/embed/ftxpbvphfuE?si=j5C89pEjR5FyucOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> VIDEOCLIPE: FOGO (É)</a>
+    "><div style="  
+position: relative;  
+width: 100%;  
+padding-bottom: 56.25%;  
+height: 0;  
+overflow: hidden;  
+margin-bottom: 12px;  
+">  
+<iframe  
+src="https://www.youtube.com/embed/ftxpbvphfuE"  
+style="  
+position:absolute;  
+top:0;  
+left:0;  
+width:100%;  
+height:100%;  
+border:0;  
+"  
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
+allowfullscreen></iframe></div> VIDEOCLIPE: FOGO (É)</a>
     
     <a href="https://ditto.fm/fogo-e" target="_blank" style="
       display: block;
