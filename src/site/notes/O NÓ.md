@@ -12,37 +12,34 @@
 
 ## rock independente<br>desde 2013
 
-<div style='text-align:center !important;'>
-  <div style="
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
-    text-align:center;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-  ">
-
-    <!-- Redes e contato -->
-    <a href="https://www.youtube.com/watch?v=ftxpbvphfuE" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #f8615d !important;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    "><div style="  
-position: relative;  
+<div style='text-align:center !important;'>  
+<div style="  
 width: 100%;  
-padding-bottom: 56.25%;  
-height: 0;  
-overflow: hidden;  
-margin-bottom: 12px;  
+padding: 20px;  
+box-sizing: border-box;  
+text-align:center;  
+border-color: #ff1f96 !important;  
+border-style: solid !important;  
+">  
+  
+<div style="  
+display:block;  
+margin-bottom:16px;  
+padding:20px;  
+background-color:#000000;  
+border-radius:12px;  
+border-color:#ff1f96 !important;  
+border-style:solid !important;  
+text-align:center;  
+">  
+  
+<div style="  
+position:relative;  
+width:100%;  
+padding-bottom:56.25%;  
+height:0;  
+overflow:hidden;  
+margin-bottom:12px;  
 ">  
 <iframe  
 src="https://www.youtube.com/embed/ftxpbvphfuE"  
@@ -55,7 +52,22 @@ height:100%;
 border:0;  
 "  
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen></iframe></div> VIDEOCLIPE: FOGO (É)</a>
+allowfullscreen>  
+</iframe>  
+</div>
+
+<a href="https://www.youtube.com/watch?v=ftxpbvphfuE"  
+target="_blank"  
+style="  
+text-decoration:none;  
+color:#f8615d !important;  
+font-size:18px;  
+font-weight:600;  
+">  
+VIDEOCLIPE: FOGO (É)  
+</a>  
+  
+</div>
     
     <a href="https://ditto.fm/fogo-e" target="_blank" style="
       display: block;
