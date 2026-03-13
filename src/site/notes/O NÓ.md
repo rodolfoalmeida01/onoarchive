@@ -18,7 +18,7 @@ width: 100%;
 padding: 20px;  
 box-sizing: border-box;  
 text-align:center;  
-border-color: #ff1f96 !important;  
+border-color: none !important;
 border-style: solid !important;  
 ">  
   
