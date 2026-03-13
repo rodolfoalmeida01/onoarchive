@@ -19,7 +19,6 @@ padding: 20px;
 box-sizing: border-box;  
 text-align:center;  
 border-color: none !important;
-border-style: solid !important;  
 ">  
   
 <div style="  
@@ -29,7 +28,6 @@ padding:20px;
 background-color:#000000;  
 border-radius:12px;  
 border-color:#ff1f96 !important;  
-border-style:solid !important;  
 text-align:center;  
 ">  
   
