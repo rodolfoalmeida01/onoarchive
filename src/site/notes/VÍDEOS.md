@@ -4,6 +4,19 @@
 
 # Vídeos
 # Clipes e visualizers
+
+## Fogo (É) (2026)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ftxpbvphfuE?si=j5C89pEjR5FyucOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Direção: Rodolfo Almeida 
+Fotografia e imagens: Luis Aranguri 
+Montagem e efeitos visuais: Rodolfo Almeida 
+Lettering e arte: Luis Aranguri 
+
+Baterias e baixo gravados no Estúdio El Rocha, por Fernando Sanches e Vinicius Lunardi. Guitarras e voz captadas por Lucas Tamashiro. Mixado e masterizado por Lucas Tamashiro. Produzido entre Agosto e Dezembro de 2025. Agradecimentos: Méuri Elle, Caroline Luz, Stella Spinola, Gui Vasconcellos, Jam Spot Studio. 
+Uma produção Turminha Records. © Turminha Records, 2026
+
+
 ## Jornada do Usuário (2024)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C_IKUDNZE1A?si=qnTCJRgehAha_f50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

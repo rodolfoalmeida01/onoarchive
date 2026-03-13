@@ -23,6 +23,21 @@
   ">
 
     <!-- Redes e contato -->
+    <a href="https://www.youtube.com/watch?v=ftxpbvphfuE" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #f8615d !important;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: #000000;
+      border-radius: 12px;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
+    "><iframe width="560" height="315" src="https://www.youtube.com/embed/ftxpbvphfuE?si=j5C89pEjR5FyucOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> VIDEOCLIPE: FOGO (É)</a>
+    
     <a href="https://ditto.fm/fogo-e" target="_blank" style="
       display: block;
       margin-bottom: 16px;
@@ -36,7 +51,7 @@
       border-radius: 12px;
       border-color: #ff1f96 !important;
       border-style: single !important;
-    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) PRÉ-SAVE: FOGO (É)</a>
+    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) OUÇA: FOGO (É)</a>
     
     <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
       display: block;
