@@ -21,7 +21,7 @@ text-align:center;
 border-color: none !important;
 ">  
 
-<a href="[https://ditto.fm/fogo-e](https://ditto.fm/familiar-o-no)" target="_blank" style="
+<a href="https://ditto.fm/familiar-o-no" target="_blank" style="
       display: block;
       margin-bottom: 16px;
       padding: 20px;
