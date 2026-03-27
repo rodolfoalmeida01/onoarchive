@@ -20,6 +20,21 @@ box-sizing: border-box;
 text-align:center;  
 border-color: none !important;
 ">  
+
+<a href="[https://ditto.fm/fogo-e](https://ditto.fm/familiar-o-no)" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #f8615d !important;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: #000000;
+      border-radius: 12px;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
+    ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) PRÉ-SAVE: FAMILIAR</a>
   
 <div style="  
 display:block;  
@@ -265,3 +280,4 @@ lista de email
   
   <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
 </form></html></div>
+
