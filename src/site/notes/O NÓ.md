@@ -21,6 +21,21 @@ text-align:center;
 border-color: none !important;
 ">  
 
+<a href="https://ditto.fm/o-no-cara-triste" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #f8615d !important;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: #000000;
+      border-radius: 12px;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
+    ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
+
 <div style="  
 display:block;  
 margin-bottom:16px;  
@@ -80,7 +95,7 @@ VIDEOCLIPE: FAMILIAR
       border-radius: 12px;
       border-color: #ff1f96 !important;
       border-style: single !important;
-    ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) PRÉ-SAVE: FAMILIAR</a>
+    ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) OUÇA: FAMILIAR</a>
   
 <div style="  
 display:block;  
