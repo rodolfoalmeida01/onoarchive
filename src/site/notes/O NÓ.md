@@ -22,6 +22,15 @@ border-color: none !important;
 ">  
 
 <div style="  
+display:block;  
+margin-bottom:16px;  
+padding:20px;  
+background-color:#000000;  
+border-radius:12px;  
+border-color:#ff1f96 !important;  
+text-align:center;  
+">  
+<div style="  
 position:relative;  
 width:100%;  
 padding-bottom:56.25%;  
@@ -58,6 +67,7 @@ allowfullscreen>
       border-color: #ff1f96 !important;
       border-style: single !important;
     ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
+</div>
 
 <div style="  
 display:block;  
