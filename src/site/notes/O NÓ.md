@@ -10,7 +10,7 @@
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
 
-## rock independente<br>desde 2013
+## <br>desde 2013
 
 <div style='text-align:center !important;'>  
 <div style="  
