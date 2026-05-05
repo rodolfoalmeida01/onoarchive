@@ -21,6 +21,10 @@ text-align:center;
 border-color: none !important;
 ">  
 
+![cartaz-fffront.png](/img/user/img/cartaz-fffront.png)
+<p>7 DE MAIO NO FFFRONT COM NESGA MOSQUITO<BR>
+INGRESSOS NO PIX bandano4@gmail.com</p>
+
 <div style="  
 display:block;  
 margin-bottom:16px;  
@@ -51,7 +55,7 @@ border:0;
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
 allowfullscreen>  
 </iframe>  
-</div>
+</div></div>
 
 <a href="https://ditto.fm/cara-triste" target="_blank" style="
       display: block;
