@@ -12,7 +12,7 @@
 
 ## desde 2013
 
-<div style='display:none'>
+<div style=''>
 receba novidades
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
