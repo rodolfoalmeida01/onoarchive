@@ -12,7 +12,7 @@
 
 
 <div style=''>
-receba novidades
+<p>receba novidades</p>
 <html><form
   action="https://buttondown.com/api/emails/embed-subscribe/onorock"
   method="post"
