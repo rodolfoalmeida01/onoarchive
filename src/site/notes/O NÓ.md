@@ -10,7 +10,6 @@
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
 
-## desde 2013
 
 <div style=''>
 receba novidades
