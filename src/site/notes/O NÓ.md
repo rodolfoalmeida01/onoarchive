@@ -10,7 +10,23 @@
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
 
-## <br>desde 2013
+## desde 2013
+
+<div style='display:none'>
+receba novidades
+<html><form
+  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+
+<input type="email" name="email" id="bd-email" 
+  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
+  
+  <input type="submit" value="seu@email.com" style="color:#fffda6;background-color:black;"/>
+</form></html></div>
 
 <div style='text-align:center !important;'>  
 <div style="  
@@ -20,10 +36,6 @@ box-sizing: border-box;
 text-align:center;  
 border-color: none !important;
 ">  
-
-![cartaz-fffront.png](/img/user/img/cartaz-fffront.png)
-<p>7 DE MAIO NO FFFRONT COM NESGA MOSQUITO<BR>
-INGRESSOS NO PIX bandano4@gmail.com</p>
 
 <div style="  
 display:block;  
@@ -264,7 +276,7 @@ VIDEOCLIPE: FOGO (É)
       border-color: #ff1f96 !important;
       border-style: single !important;
     ">EMAIL</a>
-</div></div>
+</div>
 <h1>Lançamentos</h1>
 
 
@@ -363,19 +375,5 @@ VIDEOCLIPE: FOGO (É)
 </head></html>
 
 
-<div style='display:none'>
-lista de email
-<html><form
-  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
 
-<input type="email" name="email" id="bd-email" 
-  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
-  
-  <input type="submit" value="me dê notícias" style="color:#fffda6;background-color:black;"/>
-</form></html></div>
 
