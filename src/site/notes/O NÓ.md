@@ -24,7 +24,7 @@ receba novidades
 <input type="email" name="email" id="bd-email" 
   style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
   
-  <input type="submit" value="seu@email.com" style="color:#fffda6;background-color:black;"/>
+  <input type="submit" value="quero receber" style="color:#fffda6;background-color:black;"/>
 </form></html></div>
 
 <div style='text-align:center !important;'>  
