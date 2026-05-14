@@ -9,23 +9,11 @@
 <div style='display:none'>
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
-
-
-<div style=''>
-<p>receba novidades</p>
-<html><form
-  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-
-<input type="email" name="email" id="bd-email" 
-  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
-  
-  <input type="submit" value="quero receber" style="color:#fffda6;background-color:black;"/>
-</form></html></div>
+<a href='https://ditto.fm/pedra-da-lua' target='_blank_'>
+CAPA AQUI
+</a>
+![PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg](/img/user/img/PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg)
+PEDRA DA LUA — 29 DE MAIO
 
 <div style='text-align:center !important;'>  
 <div style="  
@@ -276,9 +264,9 @@ VIDEOCLIPE: FOGO (É)
       border-style: single !important;
     ">EMAIL</a>
 </div>
+
+
 <h1>Lançamentos</h1>
-
-
 
 <div style='text-align:center !important;'>
   <div style="
@@ -348,7 +336,21 @@ VIDEOCLIPE: FOGO (É)
 ![share-img-small.png](/img/user/img/share-img-small.png)
 </div>
 </div>
+<div style=''>
+<p>receba novidades</p>
+<html><form
+  action="https://buttondown.com/api/emails/embed-subscribe/onorock"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/onorock', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
 
+<input type="email" name="email" id="bd-email" 
+  style="color:black; background-color: #fffda6; max-width: 320px; width: 100%; box-sizing: border-box;"/>
+  
+  <input type="submit" value="quero receber" style="color:#fffda6;background-color:black;"/>
+</form></html></div>
 <html><head>
 
   <meta name="description" content="o nó ☾ rock independente desde 2013">
