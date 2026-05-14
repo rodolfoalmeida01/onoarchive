@@ -12,6 +12,7 @@
 <a href='https://ditto.fm/pedra-da-lua' target='_blank_'>
 CAPA AQUI
 </a>
+
 ![PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg](/img/user/img/PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg)
 PEDRA DA LUA — 29 DE MAIO
 
@@ -192,7 +193,7 @@ VIDEOCLIPE: FOGO (É)
       border-radius: 12px;
       border-color: #ff1f96 !important;
       border-style: single !important;
-    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) OUÇA: FOGO (É)</a>
+    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) <br>OUÇA: FOGO (É)</a>
     
     <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
       display: block;
