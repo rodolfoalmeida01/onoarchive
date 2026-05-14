@@ -10,11 +10,11 @@
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
 <a href='https://ditto.fm/pedra-da-lua' target='_blank_'>
-CAPA AQUI
+<img src='https://onorock.net/img/user/img/PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg'> 
+<h1>PEDRA DA LUA — 29 DE MAIO</h1>
 </a>
 
-![PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg](/img/user/img/PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg)
-PEDRA DA LUA — 29 DE MAIO
+
 
 <div style='text-align:center !important;'>  
 <div style="  
