@@ -10,289 +10,248 @@
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
 <a href='https://ditto.fm/pedra-da-lua' target='_blank_'>
-<img src='https://onorock.net/img/user/img/PEDRA_DA_LUA_FINAL_CAPA_RODOLFO_2.jpg'> 
+![pdl_capa.jpg](/img/user/pdl_capa.jpg)
 <h1>PEDRA DA LUA — 29 DE MAIO</h1>
 </a>
 
+<div style="width:100%; box-sizing:border-box; padding:20px; text-align:center;">
 
+  <a href="https://ditto.fm/a-mare" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">![mare.jpeg](/img/user/mare.jpeg) PRÉ-SAVE: A MARÉ</a>
 
-<div style='text-align:center !important;'>  
-<div style="  
-width: 100%;  
-padding: 20px;  
-box-sizing: border-box;  
-text-align:center;  
-border-color: none !important;
-">  
+  <div style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    text-align:center;
+    box-sizing:border-box;
+  ">
+    <div style="
+      position:relative;
+      width:100%;
+      padding-bottom:56.25%;
+      height:0;
+      overflow:hidden;
+      margin-bottom:12px;
+    ">
+      <iframe src="https://www.youtube.com/embed/vq97X4qQAmI" style="
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        border:0;
+      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
 
+  <a href="https://ditto.fm/cara-triste" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
 
-<div style="  
-display:block;  
-margin-bottom:16px;  
-padding:20px;  
-background-color:#000000;  
-border-radius:12px;  
-border-color:#ff1f96 !important;  
-text-align:center;  
-">  <a href="https://ditto.fm/a-mare" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #f8615d !important;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">![Pasted image 20260518105701.png](/img/user/Pasted%20image%2020260518105701.png) PRÉ-SAVE: A MARÉ</a>
-</div>
+  <div style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    text-align:center;
+    box-sizing:border-box;
+  ">
+    <div style="
+      position:relative;
+      width:100%;
+      padding-bottom:56.25%;
+      height:0;
+      overflow:hidden;
+      margin-bottom:12px;
+    ">
+      <iframe src="https://www.youtube.com/embed/C_KTzwD8cr0" style="
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        border:0;
+      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
+    <a href="https://www.youtube.com/watch?v=C_KTzwD8cr0" target="_blank" style="
+      text-decoration:none;
+      color:#f8615d !important;
+      font-size:18px;
+      font-weight:600;
+    ">VIDEOCLIPE: FAMILIAR</a>
+  </div>
 
+  <a href="https://ditto.fm/familiar-o-no" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) OUÇA: FAMILIAR</a>
 
-<div style="  
-display:block;  
-margin-bottom:16px;  
-padding:20px;  
-background-color:#000000;  
-border-radius:12px;  
-border-color:#ff1f96 !important;  
-text-align:center;  
-">  
-<div style="  
-position:relative;  
-width:100%;  
-padding-bottom:56.25%;  
-height:0;  
-overflow:hidden;  
-margin-bottom:12px;  
-">  
-<iframe  
-src="https://www.youtube.com/embed/vq97X4qQAmI"  
-style="  
-position:absolute;  
-top:0;  
-left:0;  
-width:100%;  
-height:100%;  
-border:0;  
-"  
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen>  
-</iframe>  
-</div></div>
+  <div style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    text-align:center;
+    box-sizing:border-box;
+  ">
+    <div style="
+      position:relative;
+      width:100%;
+      padding-bottom:56.25%;
+      height:0;
+      overflow:hidden;
+      margin-bottom:12px;
+    ">
+      <iframe src="https://www.youtube.com/embed/ftxpbvphfuE" style="
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        border:0;
+      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
+    <a href="https://www.youtube.com/watch?v=ftxpbvphfuE" target="_blank" style="
+      text-decoration:none;
+      color:#f8615d !important;
+      font-size:18px;
+      font-weight:600;
+    ">VIDEOCLIPE: FOGO (É)</a>
+  </div>
 
+  <a href="https://ditto.fm/fogo-e" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg)<br>OUÇA: FOGO (É)</a>
 
-<a href="https://ditto.fm/cara-triste" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #f8615d !important;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
-</div>
+  <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">INSTAGRAM</a>
 
-<div style="  
-display:block;  
-margin-bottom:16px;  
-padding:20px;  
-background-color:#000000;  
-border-radius:12px;  
-border-color:#ff1f96 !important;  
-text-align:center;  
-">  
-  
-<div style="  
-position:relative;  
-width:100%;  
-padding-bottom:56.25%;  
-height:0;  
-overflow:hidden;  
-margin-bottom:12px;  
-">  
-<iframe  
-src="https://www.youtube.com/embed/C_KTzwD8cr0"  
-style="  
-position:absolute;  
-top:0;  
-left:0;  
-width:100%;  
-height:100%;  
-border:0;  
-"  
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen>  
-</iframe>  
-</div>
+  <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">SPOTIFY</a>
 
-<a href="https://www.youtube.com/watch?v=C_KTzwD8cr0"  
-target="_blank"  
-style="  
-text-decoration:none;  
-color:#f8615d !important;  
-font-size:18px;  
-font-weight:600;  
-">  
-VIDEOCLIPE: FAMILIAR  
-</a>  
-  
-</div>
+  <a href="https://onorock.bandcamp.com/" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">BANDCAMP</a>
 
-<a href="https://ditto.fm/familiar-o-no" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #f8615d !important;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) OUÇA: FAMILIAR</a>
-  
-<div style="  
-display:block;  
-margin-bottom:16px;  
-padding:20px;  
-background-color:#000000;  
-border-radius:12px;  
-border-color:#ff1f96 !important;  
-text-align:center;  
-">  
-  
-<div style="  
-position:relative;  
-width:100%;  
-padding-bottom:56.25%;  
-height:0;  
-overflow:hidden;  
-margin-bottom:12px;  
-">  
-<iframe  
-src="https://www.youtube.com/embed/ftxpbvphfuE"  
-style="  
-position:absolute;  
-top:0;  
-left:0;  
-width:100%;  
-height:100%;  
-border:0;  
-"  
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen>  
-</iframe>  
-</div>
+  <a href="https://www.youtube.com/@onorock" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">YOUTUBE</a>
 
-<a href="https://www.youtube.com/watch?v=ftxpbvphfuE"  
-target="_blank"  
-style="  
-text-decoration:none;  
-color:#f8615d !important;  
-font-size:18px;  
-font-weight:600;  
-">  
-VIDEOCLIPE: FOGO (É)  
-</a>  
-  
-</div>
-    
-    <a href="https://ditto.fm/fogo-e" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #f8615d !important;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg) <br>OUÇA: FOGO (É)</a>
-    
-    <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">INSTAGRAM</a>
+  <a href="mailto:bandaono4@gmail.com" style="
+    display:block;
+    margin-bottom:32px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #ff1f96;
+    box-sizing:border-box;
+  ">EMAIL</a>
 
-    <a href="https://open.spotify.com/intl-pt/artist/7J16c3pEuUA66noa3JIQmW" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">SPOTIFY</a>
-
-    <a href="https://onorock.bandcamp.com/" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">BANDCAMP</a>
-
-    <a href="https://www.youtube.com/@onorock" target="_blank" style="
-      display: block;
-      margin-bottom: 16px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">YOUTUBE</a>
-
-    <a href="mailto:bandaono4@gmail.com" style="
-      display: block;
-      margin-bottom: 32px;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      font-size: 18px;
-      font-weight: 600;
-      background-color: #000000;
-      border-radius: 12px;
-      border-color: #ff1f96 !important;
-      border-style: single !important;
-    ">EMAIL</a>
 </div>
 
 
