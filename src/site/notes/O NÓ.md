@@ -25,6 +25,33 @@ text-align:center;
 border-color: none !important;
 ">  
 
+
+<div style="  
+display:block;  
+margin-bottom:16px;  
+padding:20px;  
+background-color:#000000;  
+border-radius:12px;  
+border-color:#ff1f96 !important;  
+text-align:center;  
+">  <a href="https://ditto.fm/a-mare" target="_blank" style="
+      display: block;
+      margin-bottom: 16px;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #f8615d !important;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: #000000;
+      border-radius: 12px;
+      border-color: #ff1f96 !important;
+      border-style: single !important;
+    ">![Pasted image 20260518105701.png](/img/user/Pasted%20image%2020260518105701.png) PRÉ-SAVE: A MARÉ</a>
+</div>
+
+
+
 <div style="  
 display:block;  
 margin-bottom:16px;  
@@ -56,6 +83,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>  
 </iframe>  
 </div></div>
+
+
 
 <a href="https://ditto.fm/cara-triste" target="_blank" style="
       display: block;
