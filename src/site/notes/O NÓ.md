@@ -9,8 +9,8 @@
 <div style='display:none'>
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
-<a href='https://ditto.fm/pedra-da-lua' target='_blank_'>
-![pdl_capa.jpg](/img/user/pdl_capa.jpg)
+<a href='https://ditto.fm/pedra-da-lua' style='text-decoration: none' target='_blank_'>
+<img src='src/site/img/user/pdl_capa.jpg'>
 <h1>PEDRA DA LUA — 29 DE MAIO</h1>
 </a>
 
@@ -27,7 +27,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">![mare.jpeg](/img/user/mare.jpeg) PRÉ-SAVE: A MARÉ</a>
 
@@ -37,7 +37,7 @@
     padding:20px;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     text-align:center;
     box-sizing:border-box;
   ">
@@ -71,7 +71,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
 
@@ -81,7 +81,7 @@
     padding:20px;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     text-align:center;
     box-sizing:border-box;
   ">
@@ -122,7 +122,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) OUÇA: FAMILIAR</a>
 
@@ -132,7 +132,7 @@
     padding:20px;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     text-align:center;
     box-sizing:border-box;
   ">
@@ -173,7 +173,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg)<br>OUÇA: FOGO (É)</a>
 
@@ -188,7 +188,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">INSTAGRAM</a>
 
@@ -203,7 +203,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">SPOTIFY</a>
 
@@ -218,7 +218,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">BANDCAMP</a>
 
@@ -233,7 +233,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">YOUTUBE</a>
 
@@ -248,7 +248,7 @@
     font-weight:600;
     background-color:#000000;
     border-radius:12px;
-    border:1px solid #ff1f96;
+    border:1px solid #000000;
     box-sizing:border-box;
   ">EMAIL</a>
 
@@ -367,3 +367,4 @@
 
 
 
+![pdl_capa.jpg](/img/user/pdl_capa.jpg)
