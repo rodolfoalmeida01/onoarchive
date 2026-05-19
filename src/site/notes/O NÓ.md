@@ -16,7 +16,7 @@
 
 <div style="width:100%; box-sizing:border-box; padding:20px; text-align:center;">
 
-  <a href="https://ditto.fm/a-mare" target="_blank" style="
+  <a href="https://meaple.com.br/baralto/ono-crise" target="_blank" style="
     display:block;
     margin-bottom:16px;
     padding:20px;
@@ -73,6 +73,12 @@
         border:0;
       " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+        <a href="https://www.youtube.com/watch?v=vq97X4qQAmI" target="_blank" style="
+      text-decoration:none;
+      color:#f8615d !important;
+      font-size:18px;
+      font-weight:600;
+    ">VIDEOCLIPE: CARA TRISTE</a>
   </div>
 
   <a href="https://ditto.fm/cara-triste" target="_blank" style="
@@ -326,7 +332,7 @@
   </div>
 </div>
 
-<br><br><br>
+<br>
 <div style='display:none'>![spiral_bottom.gif](/img/user/img/gifs_geo/spiral_bottom.gif)
 
 
@@ -382,4 +388,3 @@
 
 
 
-![pdl_capa.jpg](/img/user/pdl_capa.jpg)
