@@ -29,6 +29,21 @@
     border-radius:12px;
     border:1px solid #000000;
     box-sizing:border-box;
+  ">![Screenshot 2026-05-19 135544.png](/img/user/Screenshot%202026-05-19%20135544.png) INGRESSOS: Bar Alto 5 de Junho com CRISE </a>
+
+  <a href="https://ditto.fm/a-mare" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #000000;
+    box-sizing:border-box;
   ">![mare.jpeg](/img/user/mare.jpeg) PRÉ-SAVE: A MARÉ</a>
 
   <div style="
