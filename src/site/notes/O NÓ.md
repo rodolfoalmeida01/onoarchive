@@ -9,13 +9,28 @@
 <div style='display:none'>
 ![ono-lettering-verde.png](/img/user/img/ono-lettering-verde.png)
 </div>
-<a href='https://ditto.fm/pedra-da-lua' style='text-decoration: none' target='_blank_'>
+<div style='display:none;'><a href='https://ditto.fm/pedra-da-lua' style='text-decoration: none' target='_blank_'>
 <img src='https://onorock.net/img/user/pdl_capa.jpg'>
 <h2>PEDRA DA LUA — 29 DE MAIO</h2>
-</a>
+</a></div>
 
 <div style="width:100%; box-sizing:border-box; padding:20px; text-align:center;">
 
+    <a href="https://ditto.fm/a-mare" target="_blank" style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    text-align:center;
+    text-decoration:none;
+    color:#f8615d !important;
+    font-size:18px;
+    font-weight:600;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #000000;
+    box-sizing:border-box;
+  ">![mare.jpeg](/img/user/mare.jpeg) OUÇA: A MARÉ</a>
+  
   <a href="https://meaple.com.br/baralto/ono-crise" target="_blank" style="
     display:block;
     margin-bottom:16px;
@@ -30,21 +45,6 @@
     border:1px solid #000000;
     box-sizing:border-box;
   ">![Screenshot 2026-05-19 135544.png](/img/user/Screenshot%202026-05-19%20135544.png) INGRESSOS: Bar Alto 5 de Junho com CRISE </a>
-
-  <a href="https://ditto.fm/a-mare" target="_blank" style="
-    display:block;
-    margin-bottom:16px;
-    padding:20px;
-    text-align:center;
-    text-decoration:none;
-    color:#f8615d !important;
-    font-size:18px;
-    font-weight:600;
-    background-color:#000000;
-    border-radius:12px;
-    border:1px solid #000000;
-    box-sizing:border-box;
-  ">![mare.jpeg](/img/user/mare.jpeg) PRÉ-SAVE: A MARÉ</a>
 
   <div style="
     display:block;
