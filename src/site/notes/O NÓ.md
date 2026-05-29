@@ -16,7 +16,7 @@
 
 <div style="width:100%; box-sizing:border-box; padding:20px; text-align:center;">
 
-    <a href="https://ditto.fm/a-mare" target="_blank" style="
+    <a href="https://ditto.fm/pedra-da-lua" target="_blank" style="
     display:block;
     margin-bottom:16px;
     padding:20px;
@@ -29,7 +29,7 @@
     border-radius:12px;
     border:1px solid #000000;
     box-sizing:border-box;
-  ">![mare.jpeg](/img/user/mare.jpeg) OUÇA: A MARÉ</a>
+  ">![pdl_capa.jpg](/img/user/pdl_capa.jpg) OUÇA "PEDRA DA LUA"</a>
   
   <a href="https://meaple.com.br/baralto/ono-crise" target="_blank" style="
     display:block;
@@ -45,56 +45,6 @@
     border:1px solid #000000;
     box-sizing:border-box;
   ">![Screenshot 2026-05-19 135544.png](/img/user/Screenshot%202026-05-19%20135544.png) INGRESSOS: Bar Alto 5 de Junho com CRISE </a>
-
-  <div style="
-    display:block;
-    margin-bottom:16px;
-    padding:20px;
-    background-color:#000000;
-    border-radius:12px;
-    border:1px solid #000000;
-    text-align:center;
-    box-sizing:border-box;
-  ">
-    <div style="
-      position:relative;
-      width:100%;
-      padding-bottom:56.25%;
-      height:0;
-      overflow:hidden;
-      margin-bottom:12px;
-    ">
-      <iframe src="https://www.youtube.com/embed/vq97X4qQAmI" style="
-        position:absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-        border:0;
-      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-        <a href="https://www.youtube.com/watch?v=vq97X4qQAmI" target="_blank" style="
-      text-decoration:none;
-      color:#f8615d !important;
-      font-size:18px;
-      font-weight:600;
-    ">VIDEOCLIPE: CARA TRISTE</a>
-  </div>
-
-  <a href="https://ditto.fm/cara-triste" target="_blank" style="
-    display:block;
-    margin-bottom:16px;
-    padding:20px;
-    text-align:center;
-    text-decoration:none;
-    color:#f8615d !important;
-    font-size:18px;
-    font-weight:600;
-    background-color:#000000;
-    border-radius:12px;
-    border:1px solid #000000;
-    box-sizing:border-box;
-  ">![cara-triste.jpeg](/img/user/img/cara-triste.jpeg) OUÇA: CARA TRISTE</a>
 
   <div style="
     display:block;
@@ -132,21 +82,6 @@
     ">VIDEOCLIPE: FAMILIAR</a>
   </div>
 
-  <a href="https://ditto.fm/familiar-o-no" target="_blank" style="
-    display:block;
-    margin-bottom:16px;
-    padding:20px;
-    text-align:center;
-    text-decoration:none;
-    color:#f8615d !important;
-    font-size:18px;
-    font-weight:600;
-    background-color:#000000;
-    border-radius:12px;
-    border:1px solid #000000;
-    box-sizing:border-box;
-  ">![Familiar.jpeg](/img/user/img/Familiar.jpeg) OUÇA: FAMILIAR</a>
-
   <div style="
     display:block;
     margin-bottom:16px;
@@ -183,20 +118,40 @@
     ">VIDEOCLIPE: FOGO (É)</a>
   </div>
 
-  <a href="https://ditto.fm/fogo-e" target="_blank" style="
+  <div style="
     display:block;
     margin-bottom:16px;
     padding:20px;
-    text-align:center;
-    text-decoration:none;
-    color:#f8615d !important;
-    font-size:18px;
-    font-weight:600;
     background-color:#000000;
     border-radius:12px;
     border:1px solid #000000;
+    text-align:center;
     box-sizing:border-box;
-  ">![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg)<br>OUÇA: FOGO (É)</a>
+  ">
+    <div style="
+      position:relative;
+      width:100%;
+      padding-bottom:56.25%;
+      height:0;
+      overflow:hidden;
+      margin-bottom:12px;
+    ">
+      <iframe src="https://www.youtube.com/embed/vq97X4qQAmI" style="
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        border:0;
+      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+        <a href="https://www.youtube.com/watch?v=vq97X4qQAmI" target="_blank" style="
+      text-decoration:none;
+      color:#f8615d !important;
+      font-size:18px;
+      font-weight:600;
+    ">VIDEOCLIPE: CARA TRISTE</a>
+  </div>
 
   <a href="https://www.instagram.com/onorock.br/" target="_blank" style="
     display:block;
