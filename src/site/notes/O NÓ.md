@@ -29,7 +29,7 @@
     border-radius:12px;
     border:1px solid #000000;
     box-sizing:border-box;
-  ">![pdl_capa.jpg](/img/user/pdl_capa.jpg) OUÇA "PEDRA DA LUA"</a>
+  ">![pdl_capa.jpg](/img/user/img/pdl_capa.jpg) OUÇA "PEDRA DA LUA"</a>
   
   <a href="https://meaple.com.br/baralto/ono-crise" target="_blank" style="
     display:block;
@@ -44,7 +44,7 @@
     border-radius:12px;
     border:1px solid #000000;
     box-sizing:border-box;
-  ">![Screenshot 2026-05-19 135544.png](/img/user/Screenshot%202026-05-19%20135544.png) INGRESSOS: Bar Alto 5 de Junho com CRISE </a>
+  ">![Screenshot 2026-05-19 135544.png](/img/user/img/Screenshot%202026-05-19%20135544.png) INGRESSOS: Bar Alto 5 de Junho com CRISE </a>
 
   <div style="
     display:block;
@@ -343,4 +343,4 @@
 
 
 
-![pdl_capa.jpg](/img/user/pdl_capa.jpg)
+
