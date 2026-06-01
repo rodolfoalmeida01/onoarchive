@@ -4,9 +4,10 @@
 
 # Shows
 
+## [[shows/FFFront (07.05.2026)\|FFFront (07.05.2026)]]
+O Nó convida Nesga Mosquito.
 ## [[shows/Estúdio Aurora (29.11.2025)\|Estúdio Aurora (29.11.2025)]]
 Show com Agapantos.
-
 ## [[shows/Jam Spot Studio (02.08.2025)\|Jam Spot Studio (02.08.2025)]]
 Ensaio aberto.
 

@@ -5,6 +5,30 @@
 # Vídeos
 # Clipes e visualizers
 
+## Cara Triste (2026)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vq97X4qQAmI?si=C-zNQyNKXFCk_2pK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Direção, montagem e VFX: Lucas Tamashiro 
+Imagens: Luis Aranguri 
+Lettering e arte: Luis Aranguri 
+Gravado no Jam Spot Studio, no estúdio El Rocha e no QG Turminha
+
+Baterias e baixo gravados no Estúdio El Rocha, por Fernando Sanches e Vinicius Lunardi. Guitarras e voz captadas por Lucas Tamashiro. Mixado e masterizado por Lucas Tamashiro. Produzido entre Agosto e Dezembro de 2025. Agradecimentos: Méuri Elle, Caroline Luz, Stella Spinola, Gui Vasconcellos, Jam Spot Studio.
+Uma produção Turminha Records. © Turminha Records, 2026
+
+
+## Familiar (2026)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_KTzwD8cr0?si=Mr58nHZ0qq71c3OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Direção, montagem e VFX: Rodolfo Almeida 
+Imagens: Alexandre Drobac, Mateus Bentivegna, Lucas Tamashiro e Rodolfo Almeida 
+Lettering e arte: Luis Aranguri 
+Gravado no Jam Spot Studio e em casa
+
+Baterias e baixo gravados no Estúdio El Rocha, por Fernando Sanches e Vinicius Lunardi. Guitarras e voz captadas por Lucas Tamashiro. Mixado e masterizado por Lucas Tamashiro. Produzido entre Agosto e Dezembro de 2025. Agradecimentos: Méuri Elle, Caroline Luz, Stella Spinola, Gui Vasconcellos, Jam Spot Studio.
+Uma produção Turminha Records. © Turminha Records, 2026
+
+
 ## Fogo (É) (2026)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftxpbvphfuE?si=j5C89pEjR5FyucOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

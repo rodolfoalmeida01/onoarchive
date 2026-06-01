@@ -4,6 +4,18 @@
 
 # Fotos
 # 2026
+
+![O_Nó_Foto_Rodolfo_Almeida_1.png](/img/user/img/O_N%C3%B3_Foto_Rodolfo_Almeida_1.png)
+
+![Foto Rodolfo Almeida 002.jpeg](/img/user/img/Foto%20Rodolfo%20Almeida%20002.jpeg)
+
+![Foto Rodolfo Almeida 003.jpeg](/img/user/img/Foto%20Rodolfo%20Almeida%20003.jpeg)
+
+![Foto Rodolfo Almeida 004.jpeg](/img/user/img/Foto%20Rodolfo%20Almeida%20004.jpeg)
+
+![O_Nó_Foto_Rodolfo_Almeida_6.png](/img/user/img/O_N%C3%B3_Foto_Rodolfo_Almeida_6.png)
+
+
 fotos do Luis Aranguri
 ![Foto_ Luis Aranguri(1).jpg](/img/user/img/Foto_%20Luis%20Aranguri(1).jpg)
 

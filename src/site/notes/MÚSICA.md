@@ -3,6 +3,33 @@
 ---
 
 # Álbuns
+## Pedra da Lua
+![pdl_capa.jpg](/img/user/img/pdl_capa.jpg)
+*Capa de Luis Aranguri*
+
+### [Bandcamp](https://onorock.bandcamp.com/album/pedra-da-lua) • [Spotify](https://open.spotify.com/intl-pt/album/39V3Lnn12PNLbSYFGkyG3w?1011ljwEH)
+
+Lançado em 29 de maio de 2026
+
+1. Lá Vem o Silêncio (04:02)
+2. Fogo (É) (04:00)
+3. Cara Triste (04:03)
+4. Estrela (03:09)
+5. Familiar (03:57)
+6. Porto (01:13)
+7. A Maré (03:03)
+8. Bilhete Rúnico (03:42)
+9. Casa Vazia (03:25)
+10. Debaixo da Cama (03:32)
+34:06
+
+Baterias e baixo gravados no estúdio El Rocha por Fernando Sanches e Vinícius Lunardi. 
+Guitarras e voz gravadas no QG Turminha por Lucas Tamashiro.
+Mixado e Masterizado por Lucas Tamashiro. 
+Vocais adicionais de Méuri Elle na faixa 3 “Cara Triste” e na 7 “A Maré”.
+Todas as músicas, arranjos e letras por O Nó. 
+Produzido entre Agosto e Dezembro de 2025. 
+<br><br>
 ## Era Normal
 ![a1851907546_10.jpg](/img/user/img/a1851907546_10.jpg)
 *Ilustração de capa da Larissa Laban com design do Alexandre Drobac*
@@ -49,6 +76,56 @@ Lançado em 4 de Dezembro de 2020
 Todas as músicas compostas e produzidas por Alexandre Drobac, Mateus Bentivegna, Matheus Perelmutter e Rodolfo Almeida (O Nó). Gravado no quarto do Matheus entre 2017 e 2019. Mixagem, masterização e co-produção de Otávio Bonazzi, com produção de vozes por André Ribeiro. Letra de "O Nó" escrita por Ana Cristina César (poema "nó" de 1968).<br><br>
 # Singles
 
+## Fogo (É)
+![capa_fogo_small.jpeg](/img/user/img/capa_fogo_small.jpeg)
+*Capa de Luis Aranguri*
+### [Bandcamp](https://onorock.bandcamp.com/) • [Spotify](https://open.spotify.com/intl-pt/album/1ec9ik4o1PnQjUDLah8C7r?si=olshanGPRtKx6eBUh5q8KA)
+
+04:00
+Lançado em 13 de março de 2026.
+Baterias e baixo gravados no estúdio El Rocha por Fernando Sanches e Vinícius Lunardi. 
+Guitarras e voz gravadas no QG Turminha por Lucas Tamashiro.
+Mixado e Masterizado por Lucas Tamashiro. 
+Produzido entre Agosto e Dezembro de 2025. 
+<br><br>
+## Familiar
+![Familiar.jpeg](/img/user/img/Familiar.jpeg)
+*Capa de Luis Aranguri*
+### [Bandcamp](https://onorock.bandcamp.com/) • [Spotify](https://open.spotify.com/intl-pt/album/6inG9a4wgSSvhKqFhsnrTy?si=-3ia9k75QEeQdy2cmWkDPw)
+
+03:57
+Lançado em 3 de abril de 2026.
+Baterias e baixo gravados no estúdio El Rocha por Fernando Sanches e Vinícius Lunardi. 
+Guitarras e voz gravadas no QG Turminha por Lucas Tamashiro.
+Mixado e Masterizado por Lucas Tamashiro. 
+Produzido entre Agosto e Dezembro de 2025. 
+<br><br>
+## Cara Triste
+![cara-triste.jpeg](/img/user/img/cara-triste.jpeg)
+*Capa de Luis Aranguri*
+### [Bandcamp](https://onorock.bandcamp.com/) • [Spotify](https://open.spotify.com/intl-pt/album/0vNN8mheB9ghRLUsHdUa8c)
+
+04:03
+Lançado em 24 de abril de 2026.
+Baterias e baixo gravados no estúdio El Rocha por Fernando Sanches e Vinícius Lunardi. 
+Guitarras e voz gravadas no QG Turminha por Lucas Tamashiro.
+Mixado e Masterizado por Lucas Tamashiro. 
+Vozes adicionais de Méuri Elle.
+Produzido entre Agosto e Dezembro de 2025. 
+<br><br>
+## A Maré
+![mare.jpeg](/img/user/img/mare.jpeg)
+*Capa de Luis Aranguri*
+### [Bandcamp](https://onorock.bandcamp.com/) • [Spotify](https://open.spotify.com/intl-pt/album/0XIw1NZG2LdU8tE7wcJrm6)
+
+04:03
+Lançado em 24 de abril de 2026.
+Baterias e baixo gravados no estúdio El Rocha por Fernando Sanches e Vinícius Lunardi. 
+Guitarras e voz gravadas no QG Turminha por Lucas Tamashiro.
+Mixado e Masterizado por Lucas Tamashiro. 
+Vozes adicionais de Méuri Elle.
+Produzido entre Agosto e Dezembro de 2025. 
+<br><br>
 ## Efígie
 ![capa_efigie.jpg](/img/user/img/capa_efigie.jpg)
 *Foto de capa de Rodolfo Almeida*
