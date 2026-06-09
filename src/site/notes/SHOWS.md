@@ -4,7 +4,8 @@
 
 # Shows
 
-
+## [[shows/Bar Alto (05.06.2026)\|Bar Alto (05.06.2026)]]
+O Nó + CRISE. Lançamento de "Pedra da Lua"
 ## [[shows/FFFront (07.05.2026)\|FFFront (07.05.2026)]]
 O Nó convida Nesga Mosquito.
 ## [[shows/Estúdio Aurora (29.11.2025)\|Estúdio Aurora (29.11.2025)]]
