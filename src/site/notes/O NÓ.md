@@ -35,8 +35,14 @@
       margin-bottom:12px;
     ">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdecOF0SVog?si=4NwSl-DzeDLKP8k9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+      <iframe src="https://www.youtube.com/embed/KdecOF0SVog?si=4NwSl-DzeDLKP8k9" style="
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        border:0;
+      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <a href="https://www.youtube.com/watch?v=KdecOF0SVog" target="_blank" style="
       text-decoration:none;
@@ -291,7 +297,6 @@
     box-sizing: border-box;
     text-align:center;
       border-color: #ff1f96;
-      border-style: single;
   ">
     <!-- Lançamentos -->
     <a href="https://tratore.ffm.to/eranormal" target="_blank" style="
@@ -305,7 +310,6 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96 !important;
-      border-style: single !important;
     ">ERA NORMAL (2024)</a>
 
     <a href="https://onerpm.link/6002853233" target="_blank" style="
@@ -319,7 +323,6 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96 !important;
-      border-style: single !important;
     ">RESQUÍCIOS CROMÁTICOS (2020)</a>
 
     <a href="https://onerpm.link/287964400" target="_blank" style="
@@ -332,7 +335,6 @@
       background-color: #000000;
       border-radius: 12px;
       border-color: #ff1f96 !important;
-      border-style: single !important;
     ">EP1 — QUASAR (2015)</a>
 
   </div>
