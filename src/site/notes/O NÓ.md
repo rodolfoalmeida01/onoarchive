@@ -35,22 +35,7 @@
       margin-bottom:12px;
     ">
 
-      <iframe src="https://www.youtube.com/embed/KdecOF0SVog?si=4NwSl-DzeDLKP8k9" style="
-        position:absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-        border:0;
-      " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <a href="https://www.youtube.com/watch?v=KdecOF0SVog" target="_blank" style="
-      text-decoration:none;
-      color:#f8615d !important;
-      font-size:18px;
-      font-weight:600;
-    ">FAMILIAR - Ao Vivo no Freak Estúdio</a>
-  </div>
+<iframe src="https://www.youtube.com/embed/KdecOF0SVog?si=4NwSl-DzeDLKP8k9" style=" position:absolute; top:0; left:0; width:100%; height:100%; border:0; " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <a href="https://www.youtube.com/watch?v=KdecOF0SVog" target="_blank" style=" text-decoration:none; color:#f8615d !important; font-size:18px; font-weight:600; ">FAMILIAR - Ao Vivo no Freak Estúdio</a> </div>
 
     <a href="https://ditto.fm/pedra-da-lua" target="_blank" style="
     display:block;
