@@ -35,16 +35,7 @@
       margin-bottom:12px;
     ">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5p9rsadNaQ?si=D7x74AsesMAEo1VX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div> <a href="https://www.youtube.com/embed/KdecOF0SVog" target="_blank" style=" text-decoration:none; color:#f8615d !important; font-size:18px; font-weight:600; ">CARA TRISTE - Ao Vivo no Freak Estúdio</a> </div>
-
-<div style="
-      position:relative;
-      width:100%;
-      padding-bottom:56.25%;
-      height:0;
-      overflow:hidden;
-      margin-bottom:12px;
-    ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5p9rsadNaQ?si=D7x74AsesMAEo1VX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <a href="https://www.youtube.com/embed/M5p9rsadNaQ" target="_blank" style=" text-decoration:none; color:#f8615d !important; font-size:18px; font-weight:600; ">CARA TRISTE - Ao Vivo no Freak Estúdio</a>
 
 <iframe src="https://www.youtube.com/embed/KdecOF0SVog?si=4NwSl-DzeDLKP8k9" style=" position:absolute; top:0; left:0; width:100%; height:100%; border:0; " allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <a href="https://www.youtube.com/watch?v=KdecOF0SVog" target="_blank" style=" text-decoration:none; color:#f8615d !important; font-size:18px; font-weight:600; ">FAMILIAR - Ao Vivo no Freak Estúdio</a> </div>
 
