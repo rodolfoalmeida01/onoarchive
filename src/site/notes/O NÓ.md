@@ -16,6 +16,27 @@
 
 <div style="width:100%; box-sizing:border-box; padding:20px; text-align:center;">
 
+<div style="
+    display:block;
+    margin-bottom:16px;
+    padding:20px;
+    background-color:#000000;
+    border-radius:12px;
+    border:1px solid #000000;
+    text-align:center;
+    box-sizing:border-box;
+  ">
+    <div style="
+      position:relative;
+      width:100%;
+      padding-bottom:56.25%;
+      height:0;
+      overflow:hidden;
+      margin-bottom:12px;
+    ">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TFMLjxgKHY?si=enpP4kUV-guft3Q2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div> <a href="https://www.youtube.com/watch?v=KdecOF0SVog" target="_blank" style=" text-decoration:none; color:#f8615d !important; font-size:18px; font-weight:600; ">CARA TRISTE - Ao Vivo no Freak Estúdio</a> </div>
+
  <div style="
     display:block;
     margin-bottom:16px;
